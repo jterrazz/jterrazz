@@ -1,4 +1,4 @@
-<p style="background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(163,175,243,1) 0%, rgba(220,182,232,1) 100.2% );">
+<p style="background:red>
 <p align="center">
   <a href="https://jterrazz.com">Website</a> -
   <a href="https://medium.com/@jterrazz">Medium</a> -
