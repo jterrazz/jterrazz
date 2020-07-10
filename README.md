@@ -10,6 +10,6 @@
 
 ### Hi there 👋
 
-I'm Jean-Baptiste, a full stack developer living in Paris specialized in NodeJS.
+I'm **Jean-Baptiste**, a **full stack developer** specialized in NodeJS.
 
-![bankin](https://bankin.com/images/favicon.png) I’m currently working at the Bankin offices
+I’m currently working at the **Bankin** application offices in Paris and love working on finance related projets.
