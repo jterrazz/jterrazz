@@ -1,4 +1,4 @@
-### ![gd](/Users/jterrazz/Projects/jterrazz/assets/gd.png)
+### ![gd](https://github.com/jterrazz/jterrazz/raw/master/assets/gd.png)
 
 <p align="center">
   <a href="https://jterrazz.com">Website</a> -
