@@ -1,4 +1,4 @@
-<p style="background:red>
+<p style="color:blue;">
 <p align="center">
   <a href="https://jterrazz.com">Website</a> -
   <a href="https://medium.com/@jterrazz">Medium</a> -
