@@ -4,8 +4,8 @@
   <a href="https://jterrazz.com">Website</a> -
   <a href="https://medium.com/@jterrazz">Medium</a> -
   <a href="https://www.linkedin.com/in/jterrazz/">LinkedIn</a> -
-  <a href="https://twitter.com/j_terrazz">@jterrazz</a> -
-  <a href="https://devpost.com/jterrazz">Devpost</a>
+  <a href="https://devpost.com/jterrazz">Devpost</a> -
+  <a href="https://twitter.com/j_terrazz">@jterrazz</a>
 </p>
 
 ### Hi there 👋
