@@ -16,4 +16,5 @@ I’m currently working for the [**Bankin**](http://bankin.com/) application and
 
 #### My learning path
 
-**[42 Paris School](https://www.42.fr/)** - [Bachelor of Economics and Management](https://feg.univ-amu.fr/)
+**[42 Paris School](https://www.42.fr/)** + [Bachelor of Economics and Management](https://feg.univ-amu.fr/)
+
