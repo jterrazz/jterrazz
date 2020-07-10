@@ -1,3 +1,5 @@
+### ![gd](/Users/jterrazz/Projects/jterrazz/assets/gd.png)
+
 <p align="center">
   <a href="https://jterrazz.com">Website</a> -
   <a href="https://medium.com/@jterrazz">Medium</a> -
