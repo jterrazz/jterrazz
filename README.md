@@ -9,7 +9,7 @@
   <a href="https://twitter.com/j_terrazz">Twitter @jterrazz</a>
 </p>
 
-### Hi there!
+#### Hi there!
 
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris** 🇫🇷.
 
@@ -17,7 +17,5 @@ I’m working on the [**Bankin / Bridge**](http://bankin.com/) backend and love 
 
 You also like cryptocurrency ? Come check the [My Open Market](https://github.com/myopenmarket) projet!
 
-#### My learning course
-
-**[42 Paris School](https://www.42.fr/)** - [Bachelor of Economics and Management](https://feg.univ-amu.fr/)
+#### My learning course - **[42 Paris School](https://www.42.fr/)** - [Bachelor of Economics and Management](https://feg.univ-amu.fr/)
 
