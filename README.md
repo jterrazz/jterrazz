@@ -1,4 +1,5 @@
-<p> </p>
+<p></p>
+
 <p align="center">
   <a href="https://myopen.market">🛍 My Open Market</a> -
   <a href="https://jterrazz.com">Portfolio</a> -
