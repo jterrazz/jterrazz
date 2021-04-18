@@ -1,7 +1,7 @@
 ### ![gd](https://github.com/jterrazz/jterrazz/raw/master/assets/gd.png)
 
 <p align="center">
-  <a href="https://myopen.market">🛍 My Open Market 🛍</a> -
+  <a href="https://myopen.market">🛍 My Open Market</a> -
   <a href="https://jterrazz.com">Portfolio</a> -
   <a href="https://medium.com/@jterrazz">Medium blog</a> -
   <a href="https://www.linkedin.com/in/jterrazz/">LinkedIn</a> -
