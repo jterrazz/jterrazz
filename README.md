@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there 👋
 
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris**
 
