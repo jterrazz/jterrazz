@@ -7,7 +7,7 @@ I'm **Jean-Baptiste**, a **full stack developer** from **Paris**
 
 ## Connect with me
 
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23D36582.svg?&style=for-the-badge" />]("https://jterrazz.com)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23D36582.svg?&style=for-the-badge" />](https://jterrazz.com)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%23253C78.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
 
