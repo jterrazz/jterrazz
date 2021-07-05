@@ -2,8 +2,8 @@
 
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris**
 
-- 🔭 Working on the [**Bankin**](http://bankin.com/) backend
-- 🌱 Learning decentralized finance in depth with the [My Open Market](https://github.com/myopenmarket) projet
+- 🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets
+- 🌱 Exploring decentralized trust concepts with [My Open Market](https://github.com/myopenmarket)
 
 ## Connect with me
 
