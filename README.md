@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm **Jean-Baptiste**, a **full stack developer** from **Paris**
+I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 
-- 🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets
-- 🌱 Exploring decentralized trust concepts with [My Open Market](https://github.com/myopenmarket)
+🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets.</br>
+🌱 Simplifying payments with **My One Wallet**.</br>
+🌱 Exploring decentralized trust concepts with **My Open Market**.
 
-## Connect with me
+#### Connect with me
 
 [<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23D36582.svg?&style=for-the-badge" />](https://jterrazz.com)
 
@@ -19,12 +20,36 @@ I'm **Jean-Baptiste**, a **full stack developer** from **Paris**
 
 <br>
 
-## Expertise
+#### Expertise
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%23C9A690.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%23C9A690.svg?&style=for-the-badge&logo=react&logoColor=white" />
 
 <br>
 
-## My learning path
-- [42 Paris School](https://www.42.fr/)
-- [Bachelor of Economics and Management](https://feg.univ-amu.fr/)
+#### My learning path
+[42 Paris School](https://www.42.fr/) and [Bachelor of Economics and Management](https://feg.univ-amu.fr/).
+
+### Projets
+- [42 corewar](https://github.com/jterrazz/42-corewar)
+- [42 devstation](https://github.com/jterrazz/42-docker-devstation)
+- [42 dr quine](https://github.com/jterrazz/42-dr-quine)
+- [42 expert system](https://github.com/jterrazz/42-expert-system)
+- [42 fillit](https://github.com/jterrazz/42-fillit)
+- [42 ft-p](https://github.com/jterrazz/42-ft-p)
+- [42 ft-printf](https://github.com/jterrazz/42-ft-printf)
+- [42 get-next-line](https://github.com/jterrazz/42-get-next-line)
+- [42 hypertube](https://github.com/jterrazz/42-hypertube)
+- [42 lem-in](https://github.com/jterrazz/42-lem-in)
+- [42 libft](https://github.com/jterrazz/42-libft)
+- [42 libft-asm](https://github.com/jterrazz/42-libft-asm)
+- [42 malloc](https://github.com/jterrazz/42-malloc)
+- [42 matcha](https://github.com/jterrazz/42-matcha)
+- [42 music-room](https://github.com/jterrazz/42-music-room)
+- [42 nm-otool](https://github.com/jterrazz/42-nm-otool)
+- [42 override](https://github.com/jterrazz/42-override)
+- [42 piscine-reloaded](https://github.com/jterrazz/42-piscine-reloaded)
+- [42 push-swap](https://github.com/jterrazz/42-push-swap)
+- [42 rainswap](https://github.com/jterrazz/42-rainfall)
+- [42 snowcrash](https://github.com/jterrazz/42-snowcrash)
+- [42 ssl-md5](https://github.com/jterrazz/42-ssl-md5)
+- [42 woody-woodpacker](https://github.com/jterrazz/42-woody-woodpacker)
