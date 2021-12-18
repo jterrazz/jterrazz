@@ -3,7 +3,6 @@
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 
 🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets.</br>
-🌱 Simplifying payments with **My One Wallet**.</br>
 🌱 Exploring decentralized trust concepts with **My Open Market**.
 
 #### Projets
