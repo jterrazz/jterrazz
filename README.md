@@ -30,7 +30,6 @@ I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 | [42 snowcrash](https://github.com/jterrazz/42-snowcrash)
 | [42 ssl-md5](https://github.com/jterrazz/42-ssl-md5)
 | [42 woody-woodpacker](https://github.com/jterrazz/42-woody-woodpacker)
-</br>**👛 My One Wallet** - [myonewallet-api](https://github.com/jterrazz/app.myonewallet-api)
 </br>**🛍 My Open Market** - [myopenmarket-api](https://github.com/jterrazz/app.myopenmarket-api) | [myopenmarket-client](https://github.com/jterrazz/app.myopenmarket-client) | [myopenmarket-landing](https://github.com/jterrazz/app.myopenmarket-landing) | [myopenmarket-tool-queue-dashboard](https://github.com/jterrazz/app.myopenmarket-tool-queue-dashboard)
 </br>**🚀 Hackathons** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) | [ethparis-collective](https://github.com/jterrazz/hackathons.ethparis-collective)
 
