@@ -5,7 +5,6 @@ I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets.</br>
 🌱 Exploring decentralized trust concepts with **My Open Market**.
 
-#### Projets
 **🎓 42 projects** - [42 corewar](https://github.com/jterrazz/42-corewar)
 | [42 devstation](https://github.com/jterrazz/42-docker-devstation)
 | [42 dr quine](https://github.com/jterrazz/42-dr-quine)
