@@ -7,7 +7,7 @@ Exploring decentralized trust concepts with [**My Open Market**](https://github.
 
 ### My work
 
-**📗 Blog** - medium()
+**📗 Blog** - [medium](http://blog.jterrazz.com)
 </br>
 **📕 42 projects** - [42 corewar](https://github.com/jterrazz/42-corewar)
 | [42 devstation](https://github.com/jterrazz/42-docker-devstation)
