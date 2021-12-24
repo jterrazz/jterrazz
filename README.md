@@ -2,10 +2,14 @@
 
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 
-🔭 Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets.</br>
-🌱 Exploring decentralized trust concepts with **My Open Market**.
+> Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets 🔭</br>
+Exploring decentralized trust concepts with [**My Open Market**](https://github.com/jterrazz/app.myopenmarket) 🌱
 
-**🎓 42 projects** - [42 corewar](https://github.com/jterrazz/42-corewar)
+### My work
+
+**📗 Blog** - medium()
+</br>
+**📕 42 projects** - [42 corewar](https://github.com/jterrazz/42-corewar)
 | [42 devstation](https://github.com/jterrazz/42-docker-devstation)
 | [42 dr quine](https://github.com/jterrazz/42-dr-quine)
 | [42 expert system](https://github.com/jterrazz/42-expert-system)
@@ -28,8 +32,10 @@ I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 | [42 snowcrash](https://github.com/jterrazz/42-snowcrash)
 | [42 ssl-md5](https://github.com/jterrazz/42-ssl-md5)
 | [42 woody-woodpacker](https://github.com/jterrazz/42-woody-woodpacker)
-</br>**🛍 My Open Market** - [myopenmarket-api](https://github.com/jterrazz/app.myopenmarket-api) | [myopenmarket-client](https://github.com/jterrazz/app.myopenmarket-client) | [myopenmarket-landing](https://github.com/jterrazz/app.myopenmarket-landing) | [myopenmarket-tool-queue-dashboard](https://github.com/jterrazz/app.myopenmarket-tool-queue-dashboard)
-</br>**🚀 Hackathons** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) | [ethparis-collective](https://github.com/jterrazz/hackathons.ethparis-collective)
+</br>
+**📘 My Open Market** - [myopenmarket-api](https://github.com/jterrazz/app.myopenmarket-api) | [myopenmarket-client](https://github.com/jterrazz/app.myopenmarket-client) | [myopenmarket-landing](https://github.com/jterrazz/app.myopenmarket-landing) | [myopenmarket-tool-queue-dashboard](https://github.com/jterrazz/app.myopenmarket-tool-queue-dashboard)
+</br>
+**📙 Hackathons** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) | [ethparis-collective](https://github.com/jterrazz/hackathons.ethparis-collective)
 
 ***Legacy apps** - [ccap-api](https://github.com/jterrazz/app.ccap-api) | [ccap-client](https://github.com/jterrazz/app.ccap-client) | [cryptoboard-client](https://github.com/jterrazz/app.cryptoboard-client) | [deal1-client](https://github.com/jterrazz/app.deal1-client) | [deal1-api](https://github.com/jterrazz/app.deal1-api) | [deallit](https://github.com/jterrazz/app.deallit) | [ffs-client](https://github.com/jterrazz/app.ffs-client) | [map-messenger-api](https://github.com/jterrazz/app.map-messenger-api) | [map-messenger-client](https://github.com/jterrazz/app.map-messenger-client)*
 
