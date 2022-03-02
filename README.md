@@ -2,8 +2,7 @@
 
 I'm **Jean-Baptiste**, a **full stack developer** from **Paris**.
 
-> Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets 🔭</br>
-Exploring decentralized trust concepts with [**Open Market**](https://github.com/jterrazz/app.open-mt) 🌱
+Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) projets 🔭 and exploring decentralized trust concepts with [**Open Market**](https://github.com/jterrazz/app.open-mt) 🌱
 
 ### My work
 
