@@ -17,7 +17,7 @@ Working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeap
 
 ***Legacy apps** - [ccap-api](https://github.com/jterrazz/app.ccap-api) - [ccap-client](https://github.com/jterrazz/app.ccap-client) - [cryptoboard-client](https://github.com/jterrazz/app.cryptoboard-client) - [deal1-client](https://github.com/jterrazz/app.deal1-client) - [deal1-api](https://github.com/jterrazz/app.deal1-api) - [deallit](https://github.com/jterrazz/app.deallit) - [ffs-client](https://github.com/jterrazz/app.ffs-client) - [map-messenger-api](https://github.com/jterrazz/app.map-messenger-api) - [map-messenger-client](https://github.com/jterrazz/app.map-messenger-client)*
 
-#### My learning path
+#### My learning course
 
 [42 Paris School](https://www.42.fr/) and [Bachelor of Economics and Management](https://feg.univ-amu.fr/).
 
