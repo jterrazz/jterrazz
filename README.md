@@ -59,4 +59,4 @@ I'm working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://brid
 <br>
 <br>
 
-<img align="left" alt="views" src="https://komarev.com/ghpvc/?username=jterrazz&label=Profile%20views&color=0e75b6&style=flat" />
+<img align="right" alt="views" src="https://komarev.com/ghpvc/?username=jterrazz&label=Profile%20views&color=0e75b6&style=flat" />
