@@ -8,7 +8,7 @@
 
 **I'm Jean-Baptiste, a full stack developer from Paris**.
 
-I'm working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) french projects. I like exploring decentralized ideas with the [**Open.MT - Open Market**](https://github.com/jterrazz/app.open-mt) project  🌱
+I'm working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/) french apps. I like exploring decentralized ideas with the [**Open.MT - Open Market**](https://github.com/jterrazz/app.open-mt) project  🌱
 
 <br>
 
