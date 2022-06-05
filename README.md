@@ -44,15 +44,11 @@ I'm working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://brid
 ### Contacts
 
 [<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23D36582.svg?&style=for-the-badge" />](https://jterrazz.com)
-
 <br>
-
-<br>
-
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%23253C78.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
-[<img align="left" alt="devpost" src="https://img.shields.io/badge/devpost%20/%20hackathons-%23253C78.svg?&style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
-
 <br>
-
+[<img align="left" alt="devpost" src="https://img.shields.io/badge/devpost%20/%20hackathons-%23253C78.svg?&style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
+<br>
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%232B59C3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jterrazz)
+<br>
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%232B59C3.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/j_terrazz)
