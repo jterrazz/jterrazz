@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <img align="right" alt="jterrazz" src="https://github-readme-stats.vercel.app/api?username=jterrazz&show_icons=true&locale=en" />
 
