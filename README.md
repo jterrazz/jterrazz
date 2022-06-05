@@ -54,3 +54,9 @@ I'm working on the [**Bankin**](http://bankin.com/) and [**Bridge**](http://brid
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%232B59C3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jterrazz)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%232B59C3.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/j_terrazz)
+
+<br>
+<br>
+<br>
+
+<img align="left" alt="views" src="https://komarev.com/ghpvc/?username=jterrazz&label=Profile%20views&color=0e75b6&style=flat" />
