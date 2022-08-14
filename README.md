@@ -1,3 +1,7 @@
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my%20website-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
+[<img align="left" alt="photos portfolio" src="https://img.shields.io/badge/my%20photo%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://photo.jterrazz.com)
+</br></br>
+
 ### Hi there 👋
 
 <img align="right" alt="jterrazz" src="https://github-readme-stats.vercel.app/api?username=jterrazz&show_icons=true&locale=en" />
@@ -10,9 +14,7 @@ I'm currently working with the [**Bankin**](http://bankin.com/) and [**Bridge**]
 
 I like exploring everything related to decentralization and finance. So come check out my [**Open.MT - Open Market**](https://github.com/jterrazz/app.open-mt) project !
 
-<br>
-
-### Most of my work
+### Some of my development work
 
 **📗 Blog articles** - [medium](http://blog.jterrazz.com)
 </br>
@@ -42,8 +44,6 @@ I like exploring everything related to decentralization and finance. So come che
 <br>
 
 ### Contacts
-
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23D36582.svg?&style=for-the-badge" />](https://jterrazz.com)
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%23253C78.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
 
