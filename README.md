@@ -55,5 +55,6 @@ I like exploring everything related to decentralization and finance. So come che
 <br>
 <br>
 <br>
+<br>
 
 <img align="right" alt="views" src="https://komarev.com/ghpvc/?username=jterrazz&label=Profile%20views&color=0e75b6&style=flat" />
