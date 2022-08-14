@@ -6,7 +6,6 @@
 
 <img align="right" alt="jterrazz" src="https://github-readme-stats.vercel.app/api?username=jterrazz&show_icons=true&locale=en" />
 
-<br>
 
 **I'm Jean-Baptiste, a full stack developer from Paris** !
 
@@ -35,13 +34,11 @@ I like exploring everything related to decentralization and finance. So come che
 
 <img align="right" alt="jterrazz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jterrazz&langs_count=5" />
 
-<br>
 
 ### My learning course
 
 [42 Paris School](https://www.42.fr/) and [Bachelor of Economics and Management](https://feg.univ-amu.fr/).
 
-<br>
 
 ### Contacts
 
