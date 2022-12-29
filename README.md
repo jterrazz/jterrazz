@@ -1,5 +1,6 @@
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
-[<img align="left" alt="photos portfolio" src="https://img.shields.io/badge/my%20photo%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://photo.jterrazz.com)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/blog-%23253C78.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
+[<img align="left" alt="photos portfolio" src="https://img.shields.io/badge/photos%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://photo.jterrazz.com)
 </br></br>
 
 ### Hey there! 👋
@@ -36,8 +37,6 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 I'm also a proud graduate of [**42 Paris School**](https://www.42.fr/) and hold a Bachelor of Economics and Management from the [**Université d'Aix-Marseille**](https://feg.univ-amu.fr/).
 
 ### Contacts
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%23253C78.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
 
 [<img align="left" alt="devpost" src="https://img.shields.io/badge/devpost%20/%20hackathons-%23253C78.svg?&style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
 
