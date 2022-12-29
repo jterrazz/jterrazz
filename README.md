@@ -1,7 +1,7 @@
 [<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/articles-%23253C78.svg?&style=for-the-badge&logoColor=white" />](https://blog.jterrazz.com)
 [<img align="left" alt="photos portfolio" src="https://img.shields.io/badge/photos%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://photo.jterrazz.com)
-[<img align="left" alt="devpost" src="https://img.shields.io/badge/hackathons-%23253C78.svg?&style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
+[<img align="left" alt="devpost" src="https://img.shields.io/badge/hackathons-%23253C78.svg?&style=for-the-badge&logoColor=white" />](https://devpost.com/jterrazz)
 </br></br>
 
 ### Hey there! 👋
