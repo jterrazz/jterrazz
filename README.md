@@ -1,4 +1,4 @@
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my%20website-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
 [<img align="left" alt="photos portfolio" src="https://img.shields.io/badge/my%20photo%20portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://photo.jterrazz.com)
 </br></br>
 
