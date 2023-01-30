@@ -16,9 +16,6 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 ### Some of my development work
 
-**📗 Blog articles** - [medium](http://blog.jterrazz.com)
-</br>
-
 **📘 Packages** - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common)
 </br>
 **📘 Open.MT application** - [wiki](https://github.com/jterrazz/app.open-mt) - [open-mt-api 🌟](https://github.com/jterrazz/app.open-mt-api) - [open-mt-client](https://github.com/jterrazz/app.open-mt-client) - [open-mt-landing](https://github.com/jterrazz/app.open-mt-landing) - [open-mt-tool-queue-dashboard](https://github.com/jterrazz/app.open-mt-tool-queue-dashboard)
