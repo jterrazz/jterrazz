@@ -18,7 +18,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 **📘 Packages** - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common)
 </br>
-**📘 Open Market Technologies** - [@open-mt/](https://github.com/jterrazz/open-mt)
+**📘 Open Market Technologies** - [@open-mt/welcome](https://github.com/jterrazz/open-mt)
 </br>
 
 **📙 Hackathons in Canada** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)
