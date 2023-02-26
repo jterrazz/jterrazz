@@ -18,7 +18,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 **📘 Packages** - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common)
 </br>
-**📘 Open.MT application** - [wiki](https://github.com/jterrazz/app.open-mt) - [open-mt-api 🌟](https://github.com/jterrazz/app.open-mt-api) - [open-mt-client](https://github.com/jterrazz/app.open-mt-client) - [open-mt-landing](https://github.com/jterrazz/app.open-mt-landing) - [open-mt-tool-queue-dashboard](https://github.com/jterrazz/app.open-mt-tool-queue-dashboard)
+**📘 Open Market Technologies** - [@open-mt/](https://github.com/jterrazz/open-mt)
 </br>
 
 **📙 Hackathons in Canada** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)
