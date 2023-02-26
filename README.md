@@ -17,7 +17,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 ### Some of my development work
 
 **📘 Projects** </br>
-**@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [jterrazz.com](https://github.com/jterrazz/jterrazz.github.io) - [eslint-config-common](https://github.com/jterrazz/eslint-config-common) </br>
+**@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [portfolio](https://github.com/jterrazz/jterrazz.github.io) - [eslint-config-common](https://github.com/jterrazz/eslint-config-common) </br>
 **@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome) </br>
 **wip** - [All](https://github.com/stars/jterrazz/lists/my-concepts-repositories)
 
