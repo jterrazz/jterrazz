@@ -16,17 +16,17 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 ### Some of my development work
 
-**📘 Packages** - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common)
-</br>
-**📘 Open Market Technologies** - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome)
-</br>
+**📘 Projects** </br>
+**@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [eslint-config-common](https://github.com/jterrazz/eslint-config-common) </br>
+**@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome) </br>
+**wip** - [All](https://github.com/stars/jterrazz/lists/my-concepts-repositories)
 
-**📙 Hackathons in Canada** - [ethwaterloo-defi-dy](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)
-</br>
-**📙 Hackathons in France** - [ethparis-collective](https://github.com/jterrazz/hackathons.ethparis-collective)
-</br>
+**📙 Hackathons** - [All](https://github.com/stars/jterrazz/lists/my-hackathons-repositories) </br>
+[ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) </br>
+[ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective) </br>
 
-**📕 42 projects** - [42 corewar](https://github.com/jterrazz/42-corewar) - [42 devstation](https://github.com/jterrazz/42-docker-devstation) - [42 dr quine](https://github.com/jterrazz/42-dr-quine) - [42 expert system](https://github.com/jterrazz/42-expert-system) - [42 fillit](https://github.com/jterrazz/42-fillit) - [42 ft-p](https://github.com/jterrazz/42-ft-p) - [42 ft-printf](https://github.com/jterrazz/42-ft-printf) - [42 get-next-line](https://github.com/jterrazz/42-get-next-line) - [42 hypertube](https://github.com/jterrazz/42-hypertube) - [42 lem-in](https://github.com/jterrazz/42-lem-in) - [42 libft](https://github.com/jterrazz/42-libft) - [42 libft-asm](https://github.com/jterrazz/42-libft-asm) - [42 malloc](https://github.com/jterrazz/42-malloc) - [42 matcha](https://github.com/jterrazz/42-matcha) - [42 music-room](https://github.com/jterrazz/42-music-room) - [42 nm-otool](https://github.com/jterrazz/42-nm-otool) - [42 override](https://github.com/jterrazz/42-override) - [42 piscine-reloaded](https://github.com/jterrazz/42-piscine-reloaded) - [42 push-swap](https://github.com/jterrazz/42-push-swap) - [42 rainfall](https://github.com/jterrazz/42-rainfall) - [42 snowcrash](https://github.com/jterrazz/42-snowcrash) - [42 ssl-md5](https://github.com/jterrazz/42-ssl-md5) - [42 woody-woodpacker](https://github.com/jterrazz/42-woody-woodpacker)
+**📕 42 projects** - [All](https://github.com/stars/jterrazz/lists/my-42-repositories) </br>
+[42 corewar](https://github.com/jterrazz/42-corewar) - [42 devstation](https://github.com/jterrazz/42-docker-devstation) - [42 dr quine](https://github.com/jterrazz/42-dr-quine) - [42 expert system](https://github.com/jterrazz/42-expert-system) - [42 fillit](https://github.com/jterrazz/42-fillit) - [42 ft-p](https://github.com/jterrazz/42-ft-p) - [42 ft-printf](https://github.com/jterrazz/42-ft-printf) - [42 get-next-line](https://github.com/jterrazz/42-get-next-line) - [42 hypertube](https://github.com/jterrazz/42-hypertube) - [42 lem-in](https://github.com/jterrazz/42-lem-in) - [42 libft](https://github.com/jterrazz/42-libft) - [42 libft-asm](https://github.com/jterrazz/42-libft-asm) - [42 malloc](https://github.com/jterrazz/42-malloc) - [42 matcha](https://github.com/jterrazz/42-matcha) - [42 nm-otool](https://github.com/jterrazz/42-nm-otool) - [42 override](https://github.com/jterrazz/42-override) - [42 piscine-reloaded](https://github.com/jterrazz/42-piscine-reloaded) - [42 push-swap](https://github.com/jterrazz/42-push-swap) - [42 rainfall](https://github.com/jterrazz/42-rainfall) - [42 snowcrash](https://github.com/jterrazz/42-snowcrash) - [42 ssl-md5](https://github.com/jterrazz/42-ssl-md5)
 
 ### My learning course
 
