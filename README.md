@@ -6,8 +6,6 @@
 
 ### Hey there! 👋
 
-<img align="right" alt="jterrazz" src="https://github-readme-stats.vercel.app/api?username=jterrazz&show_icons=true&locale=en" />
-
 I'm Jean-Baptiste, a full stack developer hailing from Paris. I've had the opportunity to work with some amazing teams, including [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/).
 
 I'm passionate about decentralization and finance, and always looking for new ways to innovate in these areas. That's why I created [**Open.MT - Open Market**](https://blog.open.mt), a project that brings the power of open markets to everyone.
