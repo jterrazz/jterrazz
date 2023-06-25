@@ -16,7 +16,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 **📘 Projects** </br>
 **@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common) </br>
-**@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome) </br>
+**@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/web-client](https://github.com/jterrazz/open-mt-web-client) - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome) </br>
 
 **📙 Hackathons** - [All](https://github.com/stars/jterrazz/lists/hackathons) </br>
 [ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) </br>
