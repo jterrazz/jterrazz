@@ -8,7 +8,7 @@
 
 I'm Jean-Baptiste, a full stack developer hailing from Paris. I've had the opportunity to work with some amazing teams, including [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/).
 
-I'm passionate about decentralization and finance, and always looking for new ways to innovate in these areas. That's why I created [**Open.MT - Open Market**](https://blog.open.mt), a project that brings the power of open markets to everyone.
+I'm passionate about decentralization and finance, and always looking for new ways to innovate in these areas. That's why I'm building [**Open.MT - Open Market**](https://blog.open.mt), a project that brings the power of open markets to everyone.
 
 Take a look at my profile and check out Open.MT. I'm always open to connecting with fellow developers and discussing exciting new ideas!
 
@@ -16,7 +16,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 **📘 Projects** </br>
 **@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [@jterrazz/eslint-config-common](https://github.com/jterrazz/eslint-config-common) </br>
-**@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/api](https://github.com/jterrazz/open-mt-api) - [@open-mt/web-client](https://github.com/jterrazz/open-mt-web-client) - [@open-mt/welcome](https://github.com/jterrazz/open-mt-welcome) </br>
+**@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/api](https://github.com/jterrazz/open-mt-api) - [@open-mt/web-client](https://github.com/jterrazz/open-mt-web-client) </br>
 
 **📙 Hackathons** - [All](https://github.com/stars/jterrazz/lists/hackathons) </br>
 [ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) </br>
