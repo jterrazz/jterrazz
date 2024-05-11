@@ -16,7 +16,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 
 **📘 Projects** </br>
 **@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [@jterrazz/package-typescript](https://github.com/jterrazz/package-typescript) - [@jterrazz/package-typescript-quality](https://github.com/jterrazz/package-typescript-quality) - [@jterrazz/package-typescript-test](https://github.com/jterrazz/package-typescript-test) - [@jterrazz/package-typescript-http](https://github.com/jterrazz/package-typescript-http) - [@jterrazz/package-typescript-logger](https://github.com/jterrazz/package-typescript-logger) </br>
-**@life-captain** - [All](https://github.com/stars/jterrazz/lists/life-captain) - [@life-captain/api](https://github.com/jterrazz/life-captain-api) - [@life-captain/web-client](https://github.com/jterrazz/life-captain-web-client) </br>
+**@life-captain** - [All](https://github.com/stars/jterrazz/lists/life-captain) - [@life-captain/api](https://github.com/jterrazz/life-captain-api) - [@life-captain/mobile](https://github.com/jterrazz/life-captain-mobile) </br>
 **@open-mt** - [All](https://github.com/stars/jterrazz/lists/open-mt) - [@open-mt/api](https://github.com/jterrazz/open-mt-api) - [@open-mt/web-client](https://github.com/jterrazz/open-mt-web-client) </br>
 
 **📙 Hackathons** - [All](https://github.com/stars/jterrazz/lists/hackathons) </br>
