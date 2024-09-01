@@ -15,7 +15,7 @@ Take a look at my profile and check out Open.MT. I'm always open to connecting w
 ### Some of my development work
 
 **📘 Projects** </br>
-**@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [Portfolio](https://github.com/jterrazz/jterrazz-web)
+**@me** - [All](https://github.com/stars/jterrazz/lists/jterrazz) - [Portfolio](https://github.com/jterrazz/jterrazz-web) </br>
 **@typescript** - [@jterrazz/package-typescript](https://github.com/jterrazz/package-typescript) - [@jterrazz/package-typescript-quality](https://github.com/jterrazz/package-typescript-quality) - [@jterrazz/package-typescript-test](https://github.com/jterrazz/package-typescript-test) - [@jterrazz/package-typescript-http](https://github.com/jterrazz/package-typescript-http) - [@jterrazz/package-typescript-logger](https://github.com/jterrazz/package-typescript-logger) </br>
 **@capitaine.io** - [All](https://github.com/stars/jterrazz/lists/capitaine.io) - [@capitaine.io/api](https://github.com/jterrazz/capitaine-api) - [@capitaine.io/mobile](https://github.com/jterrazz/life-captain-mobile) - [@capitaine.io/web](https://github.com/jterrazz/life-captain-web) </br>
 
