@@ -33,4 +33,4 @@ I'm also a proud graduate of [**42 Paris School**](https://www.42.fr/) and hold 
 ### Contacts
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%232B59C3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jterrazz)
-[<img align="left" alt="x" src="https://img.shields.io/badge/x-%232B59C3.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/j_terrazz)
+[<img align="left" alt="x" src="https://img.shields.io/badge/x-%232B59C3.svg?&style=for-the-badge&logo=@jterrazz&logoColor=white" />](https://twitter.com/j_terrazz)
