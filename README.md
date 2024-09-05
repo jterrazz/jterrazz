@@ -4,13 +4,25 @@
 [<img align="left" alt="hackathons" src="https://img.shields.io/badge/hackathons-%23253C78.svg?&style=for-the-badge&logoColor=white" />](https://jterrazz.com/link/hackathons)
 </br></br>
 
-### Hey there! 👋
+# Ahoy, fellow code voyagers! 🏴‍☠️
 
-I'm Jean-Baptiste, a full stack developer hailing from Paris. I've had the opportunity to work with some amazing teams, including [**Bankin**](http://bankin.com/) and [**Bridge**](http://bridgeapi.io/).
+I'm Jean-Baptiste, your friendly neighborhood full-stack developer sailing the digital seas from Paris. 🇫🇷
 
-I'm passionate about decentralization and finance, and always looking for new ways to innovate in these areas. That's why I'm building [**Open.MT - Open Market**](https://blog.open.mt), a project that brings the power of open markets to everyone.
+## 🧭 My Compass Points To:
+- 🚀 Crafting solutions that matter
+- 🌐 Decentralization & fintech innovation
+- 🧠 Continuous learning & growth
 
-Take a look at my profile and check out Open.MT. I'm always open to connecting with fellow developers and discussing exciting new ideas!
+## 🏗️ Current Adventure:
+Building **Capitaine** - Your personal growth co-pilot! Ready to level up your life? Stay tuned! 
+
+## 🏠 Home Port:
+Drop anchor at [jterrazz.com](https://jterrazz.com) to explore my digital archipelago!
+
+Ready to embark on a coding odyssey? Let's connect! ⚓
+
+## 🌟 Day Job:
+Currently charting fintech waters with the awesome crews at [Bankin](https://bankin.com) and BridgeApi.
 
 ### Some of my development work
 
