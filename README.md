@@ -33,7 +33,7 @@ Currently charting fintech waters with the awesome crews at [Bankin](https://ban
 [All Conquests](https://github.com/stars/jterrazz/lists/hackathons) - [ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) - [ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)
 
 ### 📕 42 Voyages:
-[Full Logbook](https://github.com/stars/jterrazz/lists/42) - Highlights: [Expert System](https://github.com/jterrazz/42-expert-system), [Malloc](https://github.com/jterrazz/42-malloc), [NM-OTool](https://github.com/jterrazz/42-nm-otool) [Override](https://github.com/jterrazz/42-override), [SSL MD5](https://github.com/jterrazz/42-ssl-md5), [Libft ASM](https://github.com/jterrazz/42-libft-asm)
+[Full Logbook](https://github.com/stars/jterrazz/lists/42) - Highlights: [Expert System](https://github.com/jterrazz/42-expert-system), [Malloc](https://github.com/jterrazz/42-malloc), [NM-OTool](https://github.com/jterrazz/42-nm-otool), [Override](https://github.com/jterrazz/42-override), [SSL MD5](https://github.com/jterrazz/42-ssl-md5), [Libft ASM](https://github.com/jterrazz/42-libft-asm)
 
 ## 🎓 Navigation School:
 - Proud graduate of [**42 Paris School**](https://www.42.fr/)
