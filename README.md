@@ -21,7 +21,7 @@ Drop anchor at [jterrazz.com](https://jterrazz.com) to explore my digital archip
 Ready to embark on a coding odyssey? Let's connect! ⚓
 
 ## 🌟 Day Job:
-Currently charting fintech waters with the awesome crews at [Bankin](https://bankin.com) and BridgeApi.
+Currently charting fintech waters with the awesome crews at [Bankin](https://bankin.com) and [BridgeApi](https://bridgeapi.io/).
 
 ## 🗺️ Treasure Map of Projects:
 
