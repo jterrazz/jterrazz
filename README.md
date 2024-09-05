@@ -1,7 +1,6 @@
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/portfolio-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
-[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-%23253C78.svg?&style=for-the-badge&logoColor=white" />](https://jterrazz.com/link/articles)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
+[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-%2390e175.svg?&style=for-the-badge&logoColor=white" />](https://jterrazz.com/link/articles)
 [<img align="left" alt="photographs" src="https://img.shields.io/badge/photographs-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com/link/photographs)
-[<img align="left" alt="hackathons" src="https://img.shields.io/badge/hackathons-%23253C78.svg?&style=for-the-badge&logoColor=white" />](https://jterrazz.com/link/hackathons)
 </br></br>
 
 # Ahoy, fellow code voyagers! 🏴‍☠️
@@ -28,19 +27,20 @@ Currently charting fintech waters with the awesome crews at [Bankin](https://ban
 
 ### 📘 Main Fleet:
 - **@me**: [All Ships](https://github.com/stars/jterrazz/lists/jterrazz) - [Flagship (Portfolio)](https://github.com/jterrazz/jterrazz-web)
-- **@typescript**: [TypeScript Armada](https://github.com/jterrazz?tab=repositories&q=package-typescript&type=&language=&sort=) (package-typescript, quality, test, http, logger)
-- **@capitaine.io**: [Capitaine Fleet](https://github.com/stars/jterrazz/lists/capitaine.io) (api, mobile, web)
+- **@typescript**: [TypeScript Armada](https://github.com/jterrazz?tab=repositories&q=package-typescript&type=&language=&sort=) (package-typescript, package-quality, package-test, package-http, package-logger)
 
 ### 📙 Hackathon Raids:
 [All Conquests](https://github.com/stars/jterrazz/lists/hackathons) - [ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy) - [ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)
 
 ### 📕 42 Voyages:
-[Full Logbook](https://github.com/stars/jterrazz/lists/42) - Highlights: [Corewar](https://github.com/jterrazz/42-corewar), [Docker Devstation](https://github.com/jterrazz/42-docker-devstation), [Malloc](https://github.com/jterrazz/42-malloc), [NM-OTool](https://github.com/jterrazz/42-nm-otool)
+[Full Logbook](https://github.com/stars/jterrazz/lists/42) - Highlights: [Expert System]([https://github.com/jterrazz/42-docker-devstation](https://github.com/jterrazz/42-expert-system)), [Malloc](https://github.com/jterrazz/42-malloc), [NM-OTool](https://github.com/jterrazz/42-nm-otool) [Override](https://github.com/jterrazz/42-override), [SSL MD5](https://github.com/jterrazz/42-ssl-md5), [Libft ASM](https://github.com/jterrazz/42-libft-asm)
 
 ## 🎓 Navigation School:
-- Proud graduate of [**42 Paris School**](https://www.42.fr/) - Where code meets creativity!
-- Bachelor of Economics and Management from [**Université d'Aix-Marseille**](https://feg.univ-amu.fr/) - Charting the seas of finance and management!
+- Proud graduate of [**42 Paris School**](https://www.42.fr/)
+- Bachelor of Economics and Management from [**Université d'Aix-Marseille**](https://feg.univ-amu.fr/)
+- 
 ### Contacts
 
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%232B59C3.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jterrazz)
 [<img align="left" alt="@jterrazz" src="https://img.shields.io/badge/@jterrazz-%232B59C3.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/j_terrazz)
