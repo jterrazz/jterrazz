@@ -38,9 +38,3 @@ Currently charting fintech waters with the awesome crews at [Bankin](https://ban
 ## 🎓 Navigation School:
 - Proud graduate of [**42 Paris School**](https://www.42.fr/)
 - Bachelor of Economics and Management from [**Université d'Aix-Marseille**](https://feg.univ-amu.fr/)
-
-### Contacts
-
-[<img align="left" alt="website" src="https://img.shields.io/badge/website-%23eaecf0.svg?&style=for-the-badge" />](https://jterrazz.com)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%23eaecf0.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jterrazz)
-[<img align="left" alt="@jterrazz" src="https://img.shields.io/badge/@jterrazz-%23eaecf0.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://twitter.com/j_terrazz)
