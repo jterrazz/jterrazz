@@ -5,7 +5,7 @@
 
 # Ahoy, fellow code voyagers! 🏴‍☠️
 
-I'm Jean-Baptiste, your friendly neighborhood full-stack developer sailing the digital seas from Paris. 🇫🇷
+I'm Jean-Baptiste, a full-stack developer sailing the digital seas from Paris. 🇫🇷
 
 ## 🧭 My Compass Points To:
 - 🚀 Crafting solutions that matter
