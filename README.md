@@ -121,7 +121,7 @@ _Building next-generation financial infrastructure_
 ### Let's build something amazing together
 
 [![Website](https://img.shields.io/badge/jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
-[![X/Twitter](https://img.shields.io/badge/@j__terrazz-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j_terrazz)
+[![X/Twitter](https://img.shields.io/badge/@j__terrazz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j_terrazz)
 
 </div>
 
