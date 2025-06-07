@@ -1,6 +1,6 @@
-[<img align="left" alt="website" src="https://img.shields.io/badge/🌐_website-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
-[<img align="left" alt="articles" src="https://img.shields.io/badge/📝_articles-6366f1?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
-[<img align="left" alt="photographs" src="https://img.shields.io/badge/📸_photographs-8b5cf6?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
+[<img align="left" alt="hub" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
+[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
+[<img align="left" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
 </br></br>
 
 <div align="center">
@@ -19,18 +19,15 @@ _Building the future, one commit at a time_
 
 Currently architecting **[Capitaine](https://github.com/jterrazz/capitaine-api)** - an AI-powered personal growth platform that acts as your daily co-pilot for self-improvement and habit formation.
 
-## 💡 Focus Areas
+## 💡 Core Expertise
 
-```typescript
-const expertise = {
-  domains: ['Fintech', 'AI/ML', 'Personal Development Tools'],
-  frontend: ['React', 'Next.js', 'TypeScript', 'React Native'],
-  backend: ['Node.js', 'Python', 'Solidity', 'Clean Architecture'],
-  ai: ['LangChain', 'Agent Orchestration', 'RAG Systems'],
-  blockchain: ['DeFi', 'Smart Contracts', 'Web3 Integration'],
-  architecture: ['DDD', 'CQRS', 'Microservices', 'Event-Driven'],
-};
-```
+**Fintech Engineering** → Building scalable financial platforms with TypeScript, Node.js, and clean architecture patterns
+
+**AI Agent Development** → Creating intelligent systems with LangChain, RAG architectures, and multi-agent orchestration
+
+**Bitcoin & Crypto** → Sound money principles, Bitcoin maximalist with smart contract exploration on Ethereum
+
+**Full-Stack Development** → React/Next.js frontends, robust APIs, and modern deployment pipelines
 
 ## 🛠️ Tech Stack
 
@@ -40,6 +37,8 @@ const expertise = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931E?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
@@ -56,71 +55,36 @@ const expertise = {
 
 ### 🤖 AI & Automation
 
-<table>
-<tr>
-<td width="50%">
-
-**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)**  
-_Intelligent Discord automation with LangChain_
-
-🔹 Multi-agent orchestration  
-🔹 RAG-powered content curation  
-🔹 Clean Architecture + DI  
-🔹 TypeScript + Zod validation
-
-</td>
-<td width="50%">
-
-**[Capitaine API](https://github.com/jterrazz/capitaine-api)**  
-_Personal growth AI co-pilot_
-
-🔹 AI-driven habit tracking  
-🔹 Behavioral analytics  
-🔹 Mobile-first architecture  
-🔹 Real-time insights
-
-</td>
-</tr>
-</table>
+**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** - Intelligent Discord automation with LangChain  
+Multi-agent orchestration • RAG-powered content curation • Clean Architecture + DI • TypeScript + Zod validation
 
 ### 🚀 Applications & Tools
 
-<table>
-<tr>
-<td width="50%">
+**Capitaine IO** ([API](https://github.com/jterrazz/capitaine-api) • [Mobile](https://github.com/jterrazz/capitaine-mobile)) - Personal growth AI co-pilot  
+Daily habit formation • Personalized coaching • Progress tracking • Goal achievement system
 
-**[Fake News Detector](https://github.com/jterrazz/fake-news-mobile)**  
-_React Native app for media literacy_
+**[Fake News](https://jterrazz.com/link/applications/fake-news)** ([API](https://github.com/jterrazz/fake-news-api) • [Mobile](https://github.com/jterrazz/fake-news-mobile)) - Media literacy education platform  
+Learn to identify misinformation • Interactive news analysis • Critical thinking training • Real-world examples
 
-🔹 Educational gamification  
-🔹 Cross-platform mobile  
-🔹 Modern UI/UX patterns
-
-</td>
-<td width="50%">
-
-**[Portfolio Hub](https://github.com/jterrazz/jterrazz-web)**  
-_Next.js showcase platform_
-
-🔹 Server-side rendering  
-🔹 Photography integration  
-🔹 Technical blog system
-
-</td>
-</tr>
-</table>
+**[Portfolio Hub](https://github.com/jterrazz/jterrazz-web)** - Next.js showcase platform  
+Server-side rendering • Photography integration • Technical blog system
 
 ### ⚒️ Developer Ecosystem
 
 Professional TypeScript packages for modern Node.js development:
 
-- **[TypeScript Config](https://github.com/jterrazz/package-typescript)** → Advanced TS configuration
+- **[TypeScript](https://github.com/jterrazz/package-typescript)** → Advanced TS configuration
 - **[Quality Tools](https://github.com/jterrazz/package-quality)** → ESLint + Prettier setup
 - **[Testing Suite](https://github.com/jterrazz/package-test)** → Test utilities & patterns
-- **[HTTP Client](https://github.com/jterrazz/package-http)** → Type-safe API abstractions
 - **[Logger](https://github.com/jterrazz/package-logger)** → Structured logging solution
 
-### 🌐 Blockchain & DeFi
+### ₿ Bitcoin & Blockchain
+
+**Bitcoin Maximalist Philosophy** → Sound money principles, decentralization, and store of value supremacy
+
+**Smart Contract Exploration** → Leveraging Ethereum capabilities while maintaining Bitcoin-first principles
+
+**DeFi Experiments:**
 
 - **[ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → DeFi yield optimization
 - **[ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)** → Governance infrastructure
@@ -138,15 +102,12 @@ Low-level engineering projects demonstrating CS fundamentals:
 - **[Security](https://github.com/jterrazz/42-override)** → Binary exploitation
 - **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → Hash algorithms
 
-## 💼 Professional Experience
+[**📚 View all 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)
+
+## 💼 Current Job
 
 **Fintech Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io)  
 _Building next-generation financial infrastructure_
-
-- Personal finance management platforms
-- Banking API ecosystems
-- Regulatory compliance systems
-- High-scale data processing
 
 ## 🎓 Background
 
@@ -159,9 +120,8 @@ _Building next-generation financial infrastructure_
 
 ### Let's build something amazing together
 
-[![Website](https://img.shields.io/badge/🌐_jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
-[![X/Twitter](https://img.shields.io/badge/🐦_@j__terrazz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/j_terrazz)
-[![Medium](https://img.shields.io/badge/📝_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jterrazz)
+[![Website](https://img.shields.io/badge/jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
+[![X/Twitter](https://img.shields.io/badge/@j__terrazz-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j_terrazz)
 
 </div>
 
