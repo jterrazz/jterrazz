@@ -17,7 +17,7 @@ _Building the future, one commit at a time_
 
 ## 🚀 What I'm Building
 
-Currently architecting **[Capitaine](https://github.com/jterrazz/capitaine-api)** - an AI-powered personal growth platform that acts as your daily co-pilot for self-improvement and habit formation.
+Currently architecting Capitaine - an AI-powered personal growth platform that acts as your daily co-pilot for self-improvement and habit formation.
 
 ## 💡 Core Expertise
 
