@@ -64,8 +64,9 @@ Server-side rendering • Photography integration • Technical blog system
 
 ### ⚒️ Developer Ecosystem
 
-Professional TypeScript packages for modern Node.js development:
+TypeScript packages for modern Node.js development:
 
+- **[Intelligence](https://github.com/jterrazz/package-intelligence)** → A composable, type-safe, and framework-agnostic AI agent library for TypeScript.
 - **[TypeScript](https://github.com/jterrazz/package-typescript)** → Advanced TS configuration
 - **[Quality Tools](https://github.com/jterrazz/package-quality)** → ESLint + Prettier setup
 - **[Testing Suite](https://github.com/jterrazz/package-test)** → Test utilities & patterns
