@@ -90,7 +90,7 @@ Low-level engineering projects demonstrating CS fundamentals:
 - **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → Hash algorithms
 - ...
 
-[**📚 View all 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)
+[**View all 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)
 
 ## 💡 Core Expertise
 
