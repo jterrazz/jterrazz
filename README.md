@@ -46,8 +46,8 @@ Multi-agent orchestration • RAG-powered content curation • Clean Architectur
 **Capitaine IO** ([API](https://github.com/jterrazz/capitaine-api) • [Mobile](https://github.com/jterrazz/capitaine-mobile)) - Personal growth AI co-pilot  
 Daily habit formation • Personalized coaching • Progress tracking • Goal achievement system
 
-**[Fake News](https://jterrazz.com/link/applications/fake-news)** ([API](https://github.com/jterrazz/fake-news-api) • [Mobile](https://github.com/jterrazz/fake-news-mobile)) - Live, AI-powered media literacy experience
-An experience to navigate real-time news across multiple sources and viewpoints, powered by AI.
+**[Fake News](https://jterrazz.com/link/applications/fake-news)** ([API](https://github.com/jterrazz/fake-news-api) • [Mobile](https://github.com/jterrazz/fake-news-mobile)) - Live, AI-powered media literacy experience  
+An experience to navigate real-time news across multiple sources and viewpoints, powered by AI.  
 Learn to spot misinformation, compare narratives, and strengthen your critical thinking through interactive challenges.
 
 **[Portfolio Hub](https://github.com/jterrazz/jterrazz-web)** - Next.js showcase platform  
