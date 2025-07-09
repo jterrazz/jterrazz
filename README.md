@@ -5,11 +5,11 @@
 
 <div align="center">
 
-# Jean-Baptiste Terrazzoni ⚡
+# Jean-Baptiste Terrazzoni
 
-### AI • Fintech • Full-Stack Engineer
+### AI, Apps, Learn
 
-_Beta-testing tomorrow - AI, Apps, Learn 🍋 [jterrazz.com](https://jterrazz.com)_
+_Beta-testing tomorrow 🍋 [jterrazz.com](https://jterrazz.com)_
 
 </div>
 
