@@ -9,7 +9,7 @@
 
 ### AI • Fintech • Full-Stack Engineer
 
-_Imagining the future, one commit at a time_
+_Beta-testing tomorrow — AI, Ship, Learn 🍋 [jterrazz.com](https://jterrazz.com)_
 
 </div>
 
