@@ -9,7 +9,7 @@
 
 ### AI, Apps, Learn
 
-_Beta-testing tomorrow 🍋 [jterrazz.com](https://jterrazz.com)_
+_AI, coding, scalable design, and decentralization protocols 🍋 [jterrazz.com](https://jterrazz.com)_
 
 </div>
 
