@@ -7,9 +7,7 @@
 
 # Jean-Baptiste Terrazzoni
 
-### AI, Apps, Learn
-
-_AI, coding, scalable design, and decentralization protocols 🍋 [jterrazz.com](https://jterrazz.com)_
+AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)_
 
 </div>
 
