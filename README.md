@@ -1,6 +1,6 @@
-[<img align="left" alt="hub" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)</br></br>
-[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)</br></br>
-[<img align="left" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
+[<img align="center" alt="jean-baptiste terrazzoni" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
+[<img align="center" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
+[<img align="center" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
 </br></br>
 
 <div align="center">
