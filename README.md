@@ -1,5 +1,5 @@
-[<img align="left" alt="hub" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
-[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
+[<img align="left" alt="hub" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)</br></br>
+[<img align="left" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)</br></br>
 [<img align="left" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
 </br></br>
 
@@ -7,11 +7,7 @@
 
 # Jean-Baptiste Terrazzoni
 
-AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)
-
-</div>
-
-<div align="center">
+***AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)***
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)
