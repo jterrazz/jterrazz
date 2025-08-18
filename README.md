@@ -7,7 +7,7 @@
 
 # Jean-Baptiste Terrazzoni
 
-AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)_
+AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)
 
 </div>
 
