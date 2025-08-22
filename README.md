@@ -83,7 +83,6 @@ Low-level engineering projects demonstrating CS fundamentals:
 ### Let's build something amazing together
 
 [![Website](https://img.shields.io/badge/jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
-[![X/Twitter](https://img.shields.io/badge/@j__terrazz-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j_terrazz)
 
 </div>
 
