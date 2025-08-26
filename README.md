@@ -7,7 +7,7 @@
 
 # Jean-Baptiste Terrazzoni
 
-***AI Alchemist | Dev x AI x Crypto | 🍋 [jterrazz.com](https://jterrazz.com)***
+***AI · Code · Decentralization → Tomorrow | [jterrazz.com](https://jterrazz.com)***
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)
