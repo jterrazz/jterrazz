@@ -1,6 +1,7 @@
 [<img align="center" alt="jean-baptiste terrazzoni" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
 [<img align="center" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
 [<img align="center" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
+[<img align="center" alt="hackathons" src="https://img.shields.io/badge/hackathons-000000?style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
 </br></br>
 
 <div align="center">
@@ -34,15 +35,12 @@ I’m currently building **[Fake News](https://jterrazz.com/link/applications/fa
 **[Fake News](https://jterrazz.com/link/applications/fake-news)** ([API](https://github.com/jterrazz/fake-news-api) • [Mobile](https://github.com/jterrazz/fake-news-mobile)) – Gamified, AI-driven news literacy  
 **[Jterrazz Gallery](https://jterrazz.com)** ([Web](https://github.com/jterrazz/jterrazz-web)) – My Showcase
 
-### ₿ Bitcoin & Blockchain
-**Bitcoin Maximalism** – Sound money • Decentralization • Store-of-value
-
-**Smart Contracts** – Ethereum experiments through a Bitcoin-first lens
+### ₿ Decentralized Systems
+Bitcoin for sound money, Ethereum for programmable trust
 
 **DeFi Projects**  
 **[ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Yield optimizer (hackathon)  
 **[ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)** → Governance toolkit (hackathon)  
-… **[All hackathons](https://github.com/stars/jterrazz/lists/hackathons)**  
 
 ### ⚒️ Developer Ecosystem
 
@@ -69,7 +67,7 @@ Low-level engineering projects demonstrating CS fundamentals:
 
 ## 💼 Current Job
 
-**Fintech Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io)  
+**Full Stack Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io)  
 
 ## 🎓 Background
 
