@@ -1,20 +1,20 @@
-[<img align="center" alt="jean-baptiste terrazzoni" src="https://img.shields.io/badge/hub-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://jterrazz.com)
-[<img align="center" alt="articles" src="https://img.shields.io/badge/articles-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://jterrazz.com/link/articles)
-[<img align="center" alt="photographs" src="https://img.shields.io/badge/photographs-000000?style=for-the-badge&logo=unsplash&logoColor=white" />](https://jterrazz.com/link/photographs)
-[<img align="center" alt="hackathons" src="https://img.shields.io/badge/hackathons-000000?style=for-the-badge&logo=devpost&logoColor=white" />](https://devpost.com/jterrazz)
-</br></br>
-
 <div align="center">
 
-# Jean-Baptiste Terrazzoni
+# Jean-Baptiste Terrazzoni  
 
-***AI · Code · Decentralization → Tomorrow | [jterrazz.com](https://jterrazz.com)***
+***AI · Code · Decentralization → Tomorrow | [jterrazz.com](https://jterrazz.com)***  
 
+</br>
+
+<!-- Row 1: Core Themes -->
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Decentralization](https://img.shields.io/badge/Decentralization-000000?style=for-the-badge&logo=ipfs&logoColor=white)
+![Indie Dev](https://img.shields.io/badge/Indie%20Dev-000000?style=for-the-badge&logo=itch.io&logoColor=white)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+
+<!-- Row 2: Decentralization -->
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 
 </div>
 
@@ -27,14 +27,12 @@ I’m currently building **[Fake News](https://jterrazz.com/link/applications/fa
 
 ## 🎯 Cool Projects
 
-### 🤖 AI & Automation
-
 ### 🚀 Applications
 **Capitaine AI** → Personal growth & habit coach  
 **[Fake News](https://jterrazz.com/link/applications/fake-news)** → Gamified, AI-driven news literacy  
-**[Jterrazz Gallery](https://github.com/jterrazz/jterrazz-web)** → My Showcase
-**[Jterrazz Infra](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure-as-Code powering my ecosystem
-**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** → Intelligent proactive chatbot automation
+**[Jterrazz Gallery](https://github.com/jterrazz/jterrazz-web)** → My Showcase  
+**[Jterrazz Infra](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure-as-Code powering my ecosystem  
+**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** → Intelligent proactive chatbot automation  
 
 ### ₿ Decentralized Systems
 Bitcoin for sound money, Ethereum for programmable trust:
