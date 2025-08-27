@@ -28,15 +28,16 @@ I’m currently building **[Fake News](https://jterrazz.com/link/applications/fa
 ## 🎯 Cool Projects
 
 ### 🤖 AI & Automation
-**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** – Intelligent proactive chatbot automation
 
-### 🚀 Applications & Tools
-**Capitaine AI** ([API](https://github.com/jterrazz/capitaine-ai) • [Mobile](https://github.com/jterrazz/capitaine-mobile)) – Personal growth & habit coach  
-**[Fake News](https://jterrazz.com/link/applications/fake-news)** ([API](https://github.com/jterrazz/fake-news-api) • [Mobile](https://github.com/jterrazz/fake-news-mobile)) – Gamified, AI-driven news literacy  
-**[Jterrazz Gallery](https://jterrazz.com)** ([Web](https://github.com/jterrazz/jterrazz-web)) – My Showcase
+### 🚀 Applications
+**Capitaine AI** → Personal growth & habit coach  
+**[Fake News](https://jterrazz.com/link/applications/fake-news)** → Gamified, AI-driven news literacy  
+**[Jterrazz Gallery](https://github.com/jterrazz/jterrazz-web)** → My Showcase
+**[Jterrazz Infra](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure-as-Code powering my ecosystem
+**[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** → Intelligent proactive chatbot automation
 
 ### ₿ Decentralized Systems
-Bitcoin for sound money, Ethereum for programmable trust
+Bitcoin for sound money, Ethereum for programmable trust:
 
 **[ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Yield optimizer (hackathon)  
 **[ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)** → Governance toolkit (hackathon)  
@@ -54,8 +55,6 @@ TypeScript packages for my Node.js toolstack:
 ### 🎓 Systems Programming (42 School)
 
 Low-level engineering projects demonstrating CS fundamentals:
-
-**Core Systems:**
 
 **[Expert System](https://github.com/jterrazz/42-expert-system)** → Inference engine  
 **[Malloc](https://github.com/jterrazz/42-malloc)** → Memory management  
