@@ -79,7 +79,3 @@ Low-level engineering projects demonstrating CS fundamentals:
 [![Website](https://img.shields.io/badge/jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
 
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jterrazz&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</div>
