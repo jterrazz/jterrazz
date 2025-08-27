@@ -29,7 +29,9 @@ I’m currently building **[Fake News](https://jterrazz.com/link/applications/fa
 
 ### 🚀 Applications
 **Capitaine AI** → Personal growth & habit coach  
+
 **[Fake News](https://jterrazz.com/link/applications/fake-news)** → Gamified, AI-driven news literacy  
+
 **[Jterrazz Gallery](https://github.com/jterrazz/jterrazz-web)** → My Showcase  
 **[Jterrazz Infra](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure-as-Code powering my ecosystem  
 **[Jterrazz Agents](https://github.com/jterrazz/jterrazz-agents)** → Intelligent proactive chatbot automation  
