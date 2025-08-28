@@ -10,7 +10,6 @@
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Decentralization](https://img.shields.io/badge/Decentralization-000000?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Design Systems](https://img.shields.io/badge/Design%20Systems-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Indie](https://img.shields.io/badge/Indie-000000?style=for-the-badge&logo=devdotto&logoColor=white)
 
 <!-- Row 2: Decentralization -->
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
