@@ -38,8 +38,8 @@ I’m currently building **[Fake News](https://jterrazz.com/link/applications/fa
 ### ₿ Decentralized Systems
 Bitcoin for sound money, Ethereum for programmable trust:
 
-**[ETH Waterloo](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Yield optimizer (hackathon)  
-**[ETH Paris](https://github.com/jterrazz/hackathons.ethparis-collective)** → Governance toolkit (hackathon)  
+**[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Yield optimizer  
+**[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Governance toolkit  
 
 ### ⚒️ Developer Ecosystem
 
