@@ -2,7 +2,7 @@
 
 # Jean-Baptiste Terrazzoni  
 
-***AI · Code · Decentralization | [jterrazz.com](https://jterrazz.com)***  
+***Building and learning  | [jterrazz.com](https://jterrazz.com)***  
 
 </br>
 
