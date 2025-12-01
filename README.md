@@ -27,7 +27,7 @@ I’m currently building **[n00](https://jterrazz.com/link/applications/n00)**, 
 ## 🎯 Cool Projects
 
 ### 🚀 Applications
-**Capitaine AI** → Personal growth & habit coach  
+**Capitaine** → Personal growth & habit coach  
 
 **[n00](https://jterrazz.com/link/applications/n00)** → Augmented News Experience 
 
