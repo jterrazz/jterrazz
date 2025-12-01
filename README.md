@@ -29,7 +29,7 @@ I’m currently building **[n00](https://jterrazz.com/link/applications/n00)**, 
 ### 🚀 Applications
 **Capitaine AI** → Personal growth & habit coach  
 
-**[n00: Augmented News Experience](https://jterrazz.com/link/applications/n00)** → Gamified, AI-driven news literacy  
+**[n00](https://jterrazz.com/link/applications/n00)** → Augmented News Experience 
 
 **[Jterrazz Gallery](https://github.com/jterrazz/jterrazz-web)** → My Showcase  
 **[Jterrazz Infra](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure-as-Code powering my ecosystem  
