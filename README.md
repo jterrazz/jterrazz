@@ -21,7 +21,7 @@
 
 ## 🚀 What I'm Building
 
-I’m currently building **[Fake News](https://jterrazz.com/link/applications/fake-news)**, a gamified, AI-powered news app, and **[Capitaine](https://github.com/jterrazz/capitaine-api)**, an AI-driven personal-growth platform that serves as your daily co-pilot for motivation, habit formation, and self-improvement.
+I’m currently building **[n00](https://jterrazz.com/link/applications/n00)**, a gamified, AI-powered news app, and **[Capitaine](https://github.com/jterrazz/capitaine-api)**, an AI-driven personal-growth platform that serves as your daily co-pilot for motivation, habit formation, and self-improvement.
 
 
 ## 🎯 Cool Projects
