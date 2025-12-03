@@ -6,14 +6,9 @@
 
 </br>
 
-<!-- Row 1: Core Themes -->
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Architecture](https://img.shields.io/badge/Design%20Systems-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Decentralization](https://img.shields.io/badge/Decentralization-000000?style=for-the-badge&logo=ipfs&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-
-<!-- Row 2: Decentralization -->
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 
 </div>
 
