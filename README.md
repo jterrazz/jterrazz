@@ -7,7 +7,7 @@
 </br>
 
 ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Architecture](https://img.shields.io/badge/Design%20Systems-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![Decentralization](https://img.shields.io/badge/Decentralization-000000?style=for-the-badge&logo=ipfs&logoColor=white)
 
 </div>
