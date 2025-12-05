@@ -57,14 +57,9 @@ Low-level engineering projects demonstrating CS fundamentals:
 **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → Hash algorithms  
 ... [**All 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
 
-## 💼 Current Job
+## 💼 Job
 
-**Full Stack Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io)  
-
-## 🎓 Background
-
-- **42 Paris** → Systems Programming & Software Engineering
-- **Université d'Aix-Marseille** → Economics & Management
+**Full Stack Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io) 
 
 ---
 
