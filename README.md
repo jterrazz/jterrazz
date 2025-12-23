@@ -43,7 +43,7 @@ TypeScript packages for my Node.js toolstack:
 **[Package Intelligence](https://github.com/jterrazz/package-intelligence)** → A composable, type-safe, and framework-agnostic AI agent library for TypeScript.  
 **[Package Logger](https://github.com/jterrazz/package-logger)** → Structured logging solution  
 **[Package Test](https://github.com/jterrazz/package-test)** → Typescript test utilities & configurations  
-**[Package Quality](https://github.com/jterrazz/package-quality)** → Typescript linting and quality rules  
+**[Package CodeStyle](https://github.com/jterrazz/package-codestyle)** → Typescript linting and quality rules  
 **[Package TypeScript](https://github.com/jterrazz/package-typescript)** → Default typescript configuration  
 
 ### 🎓 Systems Programming (42 School)
