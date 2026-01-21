@@ -42,10 +42,4 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 
 ---
 
-<div align="center">
-
-### Exploring the frontiers of AI, architecture, and decentralization
-
-[![Website](https://img.shields.io/badge/jterrazz.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jterrazz.com)
-
-</div>
+*Exploring the frontiers of AI, architecture, and decentralization - [jterrazz.com](https://jterrazz.com)*
