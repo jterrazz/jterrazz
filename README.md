@@ -45,10 +45,6 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → MD5, SHA-256 and hash algorithms  
 ... [**All 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
 
-## 💼 Work
-
-**Full Stack Engineering** at [Bankin'](https://bankin.com) & [Bridge](https://bridgeapi.io)  
-
 ---
 
 <div align="center">
