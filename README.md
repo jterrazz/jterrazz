@@ -4,18 +4,13 @@
 
 ***Building smarter with AI | [jterrazz.com](https://jterrazz.com)***  
 
-</br>
-
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Architecture](https://img.shields.io/badge/Architecture-000000?style=for-the-badge&logo=diagamsdotnet&logoColor=white)
-![Self Sovereignty](https://img.shields.io/badge/Self%20Sovereignty-000000?style=for-the-badge&logo=pfs&logoColor=white)
-
 </div>
 
 ---
 
 I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-powered news app that acts as your personal intelligence bureau, scanning global signals 24/7. Also working on **[Capitaine](https://jterrazz.com/go/capitaine)**, a day-to-day copilot for personal growth, habits, and self-improvement.
+
+---
 
 ### Applications
 
