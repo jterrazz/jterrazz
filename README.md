@@ -38,7 +38,7 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 **[Binary Analysis](https://github.com/jterrazz/42-nm-otool)** → Mach-O parsing for nm and otool  
 **[Security](https://github.com/jterrazz/42-override)** → Binary exploitation and reverse engineering  
 **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → MD5, SHA-256 and hash algorithms  
-... [**All 42 projects**](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
+[...](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
 
 ---
 
