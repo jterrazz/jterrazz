@@ -17,7 +17,7 @@
 
 I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-powered news app that acts as your personal intelligence bureau, scanning global signals 24/7. Also working on **[Capitaine](https://jterrazz.com/go/capitaine)**, a day-to-day copilot for personal growth, habits, and self-improvement.
 
-### 🚀 Applications
+### Applications
 
 **Capitaine** → Personal growth & habit companion  
 **[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
@@ -31,7 +31,7 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 **[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles  
 **[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Blockchain crowdfunding platform
 
-### 🎓 Systems
+### Systems
 
 **[Expert System](https://github.com/jterrazz/42-expert-system)** → Backward chaining rule-based inference  
 **[Malloc](https://github.com/jterrazz/42-malloc)** → Dynamic memory allocator with mmap  
