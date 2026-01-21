@@ -23,6 +23,7 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 ## 🎯 Projects
 
 ### 🚀 Applications
+
 **Capitaine** → Personal growth & habit companion  
 **[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
 **[Jterrazz](https://jterrazz.com)** → Personal space for experiments, articles, and projects  
@@ -31,7 +32,6 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 **[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
 
 ### ₿ Decentralized Systems
-Bitcoin for sound money, Ethereum for programmable trust:
 
 **[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles  
 **[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Blockchain crowdfunding platform
