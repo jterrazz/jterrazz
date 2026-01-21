@@ -31,14 +31,12 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 **[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure as Code for my cloud environment  
 **[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
 
-### ₿ Decentralized Systems
+### Hackathons
 
 **[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles  
 **[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Blockchain crowdfunding platform
 
-### 🎓 Systems Programming (42 Paris)
-
-Low-level engineering projects demonstrating CS fundamentals:
+### 🎓 Systems
 
 **[Expert System](https://github.com/jterrazz/42-expert-system)** → Backward chaining rule-based inference  
 **[Malloc](https://github.com/jterrazz/42-malloc)** → Dynamic memory allocator with mmap  
