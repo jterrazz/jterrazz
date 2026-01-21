@@ -15,12 +15,7 @@
 
 ---
 
-## 🚀 What I'm Building
-
 I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-powered news app that acts as your personal intelligence bureau, scanning global signals 24/7. Also working on **[Capitaine](https://jterrazz.com/go/capitaine)**, a day-to-day copilot for personal growth, habits, and self-improvement.
-
-
-## 🎯 Projects
 
 ### 🚀 Applications
 
