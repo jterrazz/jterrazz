@@ -23,11 +23,10 @@ I'm currently building **[SigNews](https://jterrazz.com/go/signews)**, an AI-pow
 ## 🎯 Projects
 
 ### 🚀 Applications
-**[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
-
 **Capitaine** → Personal growth & habit companion  
+**[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
+**[Jterrazz](https://jterrazz.com)** → Personal space for experiments, articles, and projects  
 
-**[Jterrazz](https://github.com/jterrazz/jterrazz-web)** → Personal space for experiments, articles, and projects  
 **[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure as Code for my cloud environment  
 **[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
 
