@@ -1,13 +1,3 @@
-<div align="center">
-
-# Jean-Baptiste Terrazzoni  
-
-***Building smarter with AI | [jterrazz.com](https://jterrazz.com)***  
-
-</div>
-
----
-
 ### Applications
 
 **Capitaine** → Personal growth & habit companion  
