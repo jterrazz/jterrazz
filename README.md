@@ -1,6 +1,6 @@
 ## Applications
 
-**[Clawssify](https://clawssify.com/)** → An AI-powered personal knowledge base that reads everything for you, classifies it, and builds your personal book of knowledge
+**[Clawssify](https://clawssify.com/)** → An AI-powered personal knowledge base that reads everything for you, classifies it, and builds your personal book of knowledge  
 **[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
 **[Jterrazz](https://jterrazz.com)** → Personal space for experiments, articles, and projects  
 
