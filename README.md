@@ -1,8 +1,8 @@
 ## Applications
 
-🪐 **[Spwn](https://spwn.sh)** → Spawning universes for AI. Simulation theory, for real  
-🗽 **[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
-🚀 **[Jterrazz](https://jterrazz.com)** → Personal space for experiments, articles, and projects  
+**[Spwn](https://spwn.sh)** 🪐 → Spawning universes for AI. Simulation theory, for real  
+**[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-powered news with an intelligence agency aesthetic  
+**[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects  
 
 **[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure as Code for my cloud environment  
 **[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
