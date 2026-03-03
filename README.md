@@ -1,6 +1,6 @@
 ## Applications
 
-**[SigNews](https://spwn.sh)** → Spawning universes 🪐 The simulation begins  
+**[Spwn](https://spwn.sh)** → Spawning universes for AI. Simulation theory, for real. 🪐  
 **[SigNews](https://jterrazz.com/go/signews)** → AI-powered news with an intelligence agency aesthetic  
 **[Jterrazz](https://jterrazz.com)** → Personal space for experiments, articles, and projects  
 
