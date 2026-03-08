@@ -4,7 +4,7 @@
 **[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic  
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects  
 
-**[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure as Code for my cloud environment  
+**[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** / **[GitHub Actions](https://github.com/jterrazz/jterrazz-workflows)** → Infrastructure as Code for my cloud environment  
 **[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
 
 ## Hackathons
