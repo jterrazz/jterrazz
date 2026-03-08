@@ -5,7 +5,6 @@
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects  
 
 **[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** / **[Workflows](https://github.com/jterrazz/jterrazz-workflows)** → Infrastructure as Code for my cloud environment  
-**[Agents](https://github.com/jterrazz/jterrazz-agents)** → Autonomous AI workflows and agent experiments  
 
 ## Hackathons
 
@@ -20,6 +19,10 @@
 **[Security](https://github.com/jterrazz/42-override)** → Binary exploitation and reverse engineering  
 **[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → MD5, SHA-256 and hash algorithms  
 [...](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
+
+---
+
+**[All Experiments](https://www.jterrazz.com/experiments)** ⚙️  
 
 ---
 
