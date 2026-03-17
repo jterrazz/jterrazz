@@ -1,12 +1,27 @@
 ## Applications
 
-**[Spwn](https://spwn.sh)** 🪐 → Spawning universes for AI. Simulation theory, for real  
-**[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic  
+**[Spwn](https://spwn.sh)** 🪐 → Spawning universes for AI. Simulation theory, for real
 
-TODO SECTION Jterrazz
-**[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects   https://github.com/jterrazz/jterrazz-web
-**[Infrastructure](https://github.com/jterrazz/jterrazz-infra)** → Infrastructure as Code for my cloud environment  
-**[Workflows](https://github.com/jterrazz/jterrazz-workflows)** →  Infrastructure CI for my cloud environment  
+`universe/`
+├── [universe](https://github.com/jterrazz/universe) → Monorepo — core engine & services
+├── 🔒 universe-web → Web client
+└── 🔒 universe-blueprint → Architecture & design docs
+
+**[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic
+
+`signews/`
+├── 🔒 signews-api → Backend API
+├── 🔒 signews-web → Web client
+├── 🔒 signews-mobile → iOS / Android app
+└── 🔒 signews-blueprint → Architecture & design docs
+
+**[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects
+
+`jterrazz/`
+├── [jterrazz-web](https://github.com/jterrazz/jterrazz-web) → Website & blog
+├── [jterrazz-agents](https://github.com/jterrazz/jterrazz-agents) → Autonomous AI agents framework
+├── [jterrazz-infra](https://github.com/jterrazz/jterrazz-infra) → Infrastructure as Code
+└── [jterrazz-workflows](https://github.com/jterrazz/jterrazz-workflows) → CI pipelines
 
 ## Hackathons
 
