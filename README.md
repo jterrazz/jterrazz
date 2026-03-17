@@ -4,19 +4,19 @@
 
 <pre>
 universe/
-├── <a href="https://github.com/jterrazz/universe">universe</a>            → Monorepo — core engine & services
-├── 🔒 universe-web        → Web client
-└── 🔒 universe-blueprint  → Architecture & design docs
+├── <a href="https://github.com/jterrazz/universe-blueprint">universe-blueprint</a> <a href="https://github.com/jterrazz/universe-blueprint">🔒</a> → Architecture & design docs
+├── <a href="https://github.com/jterrazz/universe">universe</a>              → Monorepo — core engine & services
+└── <a href="https://github.com/jterrazz/universe-web">universe-web</a> <a href="https://github.com/jterrazz/universe-web">🔒</a>       → Web client
 </pre>
 
 **[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic
 
 <pre>
 signews/
-├── 🔒 signews-api         → Backend API
-├── 🔒 signews-web         → Web client
-├── 🔒 signews-mobile      → iOS / Android app
-└── 🔒 signews-blueprint   → Architecture & design docs
+├── <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a> <a href="https://github.com/jterrazz/signews-blueprint">🔒</a> → Architecture & design docs
+├── <a href="https://github.com/jterrazz/signews-api">signews-api</a> <a href="https://github.com/jterrazz/signews-api">🔒</a>       → Backend API
+├── <a href="https://github.com/jterrazz/signews-web">signews-web</a> <a href="https://github.com/jterrazz/signews-web">🔒</a>       → Web client
+└── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a> <a href="https://github.com/jterrazz/signews-mobile">🔒</a>    → iOS / Android app
 </pre>
 
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects
