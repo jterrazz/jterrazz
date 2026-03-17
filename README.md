@@ -4,31 +4,31 @@
 
 <pre>
 universe/
-├── 🔒 <a href="https://github.com/jterrazz/universe-blueprint">universe-blueprint</a>   → Architecture & design docs
-├── 🌍 <a href="https://github.com/jterrazz/universe">universe</a>              → Monorepo — core engine & services
-└── 🔒 <a href="https://github.com/jterrazz/universe-web">universe-web</a>          → Web client
+├── <a href="https://github.com/jterrazz/universe-blueprint">universe-blueprint</a> 🔒   → Architecture & design docs
+├── <a href="https://github.com/jterrazz/universe">universe</a> 🌍              → Monorepo — core engine & services
+└── <a href="https://github.com/jterrazz/universe-web">universe-web</a> 🔒          → Web client
 </pre>
 
 **[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic
 
 <pre>
 signews/
-├── 🔒 <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a>    → Architecture & design docs
-├── 🔒 <a href="https://github.com/jterrazz/signews-api">signews-api</a>           → Backend API
-├── 🔒 <a href="https://github.com/jterrazz/signews-web">signews-web</a>           → Web client
-└── 🔒 <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>        → iOS / Android app
+├── <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a> 🔒    → Architecture & design docs
+├── <a href="https://github.com/jterrazz/signews-api">signews-api</a> 🔒           → Backend API
+├── <a href="https://github.com/jterrazz/signews-web">signews-web</a> 🔒           → Web client
+└── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a> 🔒        → iOS / Android app
 </pre>
 
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects
 
 <pre>
 jterrazz/
-├── 🌍 <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>          → Website & blog
-├── 🔒 <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>     → Content source (Obsidian)
-├── 🌍 <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a>          → Dev toolkit & dotfiles
-├── 🌍 <a href="https://github.com/jterrazz/jterrazz-org">jterrazz-org</a>          → Personal autonomous organization
-├── 🌍 <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>        → Infrastructure as Code
-└── 🌍 <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a>    → CI pipelines
+├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a> 🌍          → Website & blog
+├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a> 🔒     → Content source (Obsidian)
+├── <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a> 🌍          → Dev toolkit & dotfiles
+├── <a href="https://github.com/jterrazz/jterrazz-org">jterrazz-org</a> 🌍          → Personal autonomous organization
+├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a> 🌍        → Infrastructure as Code
+└── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a> 🌍    → CI pipelines
 </pre>
 
 ## Hackathons
