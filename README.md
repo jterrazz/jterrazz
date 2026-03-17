@@ -26,6 +26,7 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>                → Website & blog
 ├── <a href="https://github.com/jterrazz/jterrazz-org">jterrazz-org</a>                → Personal autonomous organization
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a> 🔒        → Content source (Obsidian)
+├── jterrazz-cli 🔒               → Dev toolkit & dotfiles
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>              → Infrastructure as Code
 └── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a>          → CI pipelines
 </pre>
