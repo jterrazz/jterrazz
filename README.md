@@ -30,6 +30,14 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-forge">jterrazz-forge</a> 🌍          → Personal autonomous organization
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a> 🌍        → Infrastructure as Code
 └── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a> 🌍    → CI pipelines
+
+packages/                                → Shared @jterrazz/* npm packages
+├── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a> 🌍    → Build system, tsconfig & rolldown configs
+├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a> 🌍     → Linting — tsgo + oxlint + oxfmt
+├── <a href="https://github.com/jterrazz/package-test">package-test</a> 🌍          → Test utilities for vitest & MSW
+├── <a href="https://github.com/jterrazz/package-logger">package-logger</a> 🌍        → Structured logging with pino
+├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a> 🌍  → AI toolkit — providers, parsing, observability
+└── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a> 🌍     → Multi-channel announcements (App Store, push, email)
 </pre>
 
 ## Hackathons
