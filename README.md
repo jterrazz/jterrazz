@@ -26,13 +26,13 @@ signews/
 jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a> 🌍          → Website & blog
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a> 🔒     → Content source (Obsidian)
-├── <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a> 🌍          → Dev toolkit & dotfiles
+├── <a href="https://github.com/jterrazz/jterrazz-studio">jterrazz-studio</a> 🌍       → Dev toolkit, dotfiles & AI skills
 ├── <a href="https://github.com/jterrazz/jterrazz-forge">jterrazz-forge</a> 🌍          → Personal autonomous organization
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a> 🌍        → Infrastructure as Code
 └── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a> 🌍    → CI pipelines
 
 packages/                                → Shared @jterrazz/* npm packages
-├── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a> 🌍    → Build system, tsconfig & rolldown configs
+├── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a> 🌍    → Build system — tsdown, tsconfig presets
 ├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a> 🌍     → Linting — tsgo + oxlint + oxfmt
 ├── <a href="https://github.com/jterrazz/package-test">package-test</a> 🌍          → Test utilities for vitest & MSW
 ├── <a href="https://github.com/jterrazz/package-logger">package-logger</a> 🌍        → Structured logging with pino
