@@ -24,39 +24,39 @@ signews/
 
 <pre>
 jterrazz/
-├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a> 🌍          → Website & blog
-├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a> 🔒     → Content source (Obsidian)
+├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a> 🌍          → Portfolio, articles, and photography
+├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a> 🔒     → Content source (Obsidian vault)
 ├── <a href="https://github.com/jterrazz/jterrazz-studio">jterrazz-studio</a> 🌍       → Dev toolkit, dotfiles & AI skills
-├── <a href="https://github.com/jterrazz/jterrazz-forge">jterrazz-forge</a> 🌍          → Personal autonomous organization
+├── <a href="https://github.com/jterrazz/jterrazz-forge">jterrazz-forge</a> 🔒        → Command center for agents and automations
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a> 🌍        → Infrastructure as Code
-└── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a> 🌍    → CI pipelines
+└── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a> 🌍    → Shared CI pipelines
 
-packages/                                → Shared @jterrazz/* npm packages
-├── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a> 🌍    → Build system — tsdown, tsconfig presets
-├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a> 🌍     → Linting — tsgo + oxlint + oxfmt
-├── <a href="https://github.com/jterrazz/package-test">package-test</a> 🌍          → Test utilities for vitest & MSW
-├── <a href="https://github.com/jterrazz/package-logger">package-logger</a> 🌍        → Structured logging with pino
-├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a> 🌍  → AI toolkit — providers, parsing, observability
-└── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a> 🌍     → Multi-channel announcements (App Store, push, email)
+packages/
+├── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a> 🌍
+├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a> 🌍
+├── <a href="https://github.com/jterrazz/package-test">package-test</a> 🌍
+├── <a href="https://github.com/jterrazz/package-logger">package-logger</a> 🌍
+├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a> 🌍
+└── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a> 🌍
 </pre>
 
 ## Hackathons
 
-**[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles  
+**[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles
 **[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Blockchain crowdfunding platform
 
 ## Systems
 
-**[Expert System](https://github.com/jterrazz/42-expert-system)** → Backward chaining rule-based inference  
-**[Malloc](https://github.com/jterrazz/42-malloc)** → Dynamic memory allocator with mmap  
-**[Binary Analysis](https://github.com/jterrazz/42-nm-otool)** → Mach-O parsing for nm and otool  
-**[Security](https://github.com/jterrazz/42-override)** → Binary exploitation and reverse engineering  
-**[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → MD5, SHA-256 and hash algorithms  
-[...](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)  
+**[Expert System](https://github.com/jterrazz/42-expert-system)** → Backward chaining rule-based inference
+**[Malloc](https://github.com/jterrazz/42-malloc)** → Dynamic memory allocator with mmap
+**[Binary Analysis](https://github.com/jterrazz/42-nm-otool)** → Mach-O parsing for nm and otool
+**[Security](https://github.com/jterrazz/42-override)** → Binary exploitation and reverse engineering
+**[Cryptography](https://github.com/jterrazz/42-ssl-md5)** → MD5, SHA-256 and hash algorithms
+[...](https://github.com/jterrazz?tab=repositories&q=42&type=&language=&sort=)
 
 ---
 
-**[All Experiments](https://www.jterrazz.com/experiments)** ⚙️  
+**[All Experiments](https://www.jterrazz.com/experiments)** ⚙️
 
 ---
 
