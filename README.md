@@ -43,6 +43,7 @@ packages/
 ## Hackathons
 
 **[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles
+
 **[ETH Paris Hackathon](https://github.com/jterrazz/hackathons.ethparis-collective)** → Blockchain crowdfunding platform
 
 ## Systems
