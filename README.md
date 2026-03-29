@@ -1,3 +1,5 @@
+<div align="right"><sub><i>🟢 public 🔴 private</i></sub></div>
+
 ## Applications
 
 **[Spwn](https://spwn.sh)** 🪐 → Spawning universes for AI. Simulation theory, for real
