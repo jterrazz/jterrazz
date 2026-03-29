@@ -42,6 +42,34 @@ packages/
 └── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>        🟢 Shared tsconfig & build presets
 </pre>
 
+**[Clawrr](https://clawrr.com)** 🤖 → AI agent marketplace — registry, discovery, and reputation
+
+<pre>
+clawrr/
+├── <a href="https://github.com/clawrr/clawrr">clawrr</a>                  🟢 Platform & marketplace
+├── <a href="https://github.com/clawrr/web-landing">clawrr-web-landing</a>      🔴 Landing page
+├── <a href="https://github.com/clawrr/worker">clawrr-worker</a>           🔴 Background worker
+└── <a href="https://github.com/clawrr/hire">clawrr-hire</a>             🔴 HIRE protocol specification
+</pre>
+
+**[Clawssify](https://clawssify.com)** 🐾 → AI reads your links and notes, organizes them into wiki pages and digests
+
+<pre>
+clawssify/
+├── <a href="https://github.com/jterrazz/clawssify">clawssify</a>               🟢 Platform
+├── <a href="https://github.com/jterrazz/clawssify-blueprint">clawssify-blueprint</a>     🔴 Architecture & design docs
+└── <a href="https://github.com/jterrazz/clawssify-web-landing">clawssify-web-landing</a>   🔴 Landing page
+</pre>
+
+**[PhotoPack](https://photopack.dev)** 📸 → Pack your photo library tight — deduplicate, organize, compress
+
+<pre>
+photopack/
+├── <a href="https://github.com/jterrazz/photopack">photopack</a>               🟢 Core engine (Rust)
+├── <a href="https://github.com/jterrazz/photopack-macos">photopack-macos</a>         🔴 Native macOS app
+└── <a href="https://github.com/jterrazz/photopack-blueprint">photopack-blueprint</a>     🔴 Architecture & design docs
+</pre>
+
 ## Hackathons
 
 **[ETH Waterloo Hackathon](https://github.com/jterrazz/hackathons.ethwaterloo-defi-dy)** → Synthetic asset platform with Chainlink oracles
