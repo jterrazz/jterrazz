@@ -5,21 +5,21 @@
 **[Spwn](https://spwn.sh)** 🪐 → Spawning universes for AI. Simulation theory, for real
 
 <pre>
-universe/
-├── <a href="https://github.com/jterrazz/universe">universe</a>                🟢 Monorepo — core engine & services
-├── <a href="https://github.com/jterrazz/universe-blueprint">universe-blueprint</a>      🔴 Architecture & design docs
-└── <a href="https://github.com/jterrazz/universe-web">universe-web</a>            🔴 Web client
+spwn/
+├── <a href="https://github.com/jterrazz/spwn">spwn</a>                    🟢 Monorepo — core engine & services
+├── <a href="https://github.com/jterrazz/spwn-blueprint">spwn-blueprint</a>          🔴 Architecture & design docs
+└── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>                🔴 Web client
 </pre>
 
 **[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic
 
 <pre>
 signews/
-├── <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a>       🔴 Architecture & design docs
 ├── <a href="https://github.com/jterrazz/signews-api">signews-api</a>             🔴 Backend API
-├── <a href="https://github.com/jterrazz/signews-web">signews-web</a>             🔴 Web client
+├── <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a>       🔴 Architecture & design docs
+├── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>       🔴 App Store events broadcaster
 ├── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>          🔴 iOS / Android app
-└── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>       🔴 App Store events broadcaster
+└── <a href="https://github.com/jterrazz/signews-web">signews-web</a>             🔴 Web client
 </pre>
 
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects
