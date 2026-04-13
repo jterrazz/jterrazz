@@ -42,7 +42,8 @@ packages/
 └── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>        🟢 Shared tsconfig & build presets
 </pre>
 
-**[Clawrr](https://clawrr.com)** 🤖 → AI agent marketplace — registry, discovery, and reputation
+<details>
+<summary><b>Clawrr</b> 🤖 → AI agent marketplace — registry, discovery, and reputation &nbsp;<kbd>◌ idle · not started</kbd></summary>
 
 <pre>
 clawrr/
@@ -51,8 +52,10 @@ clawrr/
 ├── <a href="https://github.com/clawrr/worker">clawrr-worker</a>           🔴 Background worker
 └── <a href="https://github.com/clawrr/hire">clawrr-hire</a>             🔴 HIRE protocol specification
 </pre>
+</details>
 
-**[Clawssify](https://clawssify.com)** 🐾 → AI reads your links and notes, organizes them into wiki pages and digests
+<details>
+<summary><b>Clawssify</b> 🐾 → AI reads your links and notes, organizes them into wiki pages and digests &nbsp;<kbd>◌ idle · not started</kbd></summary>
 
 <pre>
 clawssify/
@@ -60,6 +63,7 @@ clawssify/
 ├── <a href="https://github.com/jterrazz/clawssify-blueprint">clawssify-blueprint</a>     🔴 Architecture & design docs
 └── <a href="https://github.com/jterrazz/clawssify-web-landing">clawssify-web-landing</a>   🔴 Landing page
 </pre>
+</details>
 
 **[PhotoPack](https://photopack.dev)** 📸 → Pack your photo library tight — deduplicate, organize, compress
 
