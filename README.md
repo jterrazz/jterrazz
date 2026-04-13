@@ -8,6 +8,7 @@
 spwn/
 ├── <a href="https://github.com/jterrazz/spwn">spwn</a>                    🟢 Monorepo — core engine & services
 ├── <a href="https://github.com/jterrazz/spwn-blueprint">spwn-blueprint</a>          🔴 Architecture & design docs
+├── <a href="https://github.com/jterrazz/spwn-motion">spwn-motion</a>             🔴 Motion graphics & promo teasers
 └── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>                🔴 Web client
 </pre>
 
