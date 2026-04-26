@@ -7,8 +7,8 @@
 <pre>
 spwn/
 ├── <a href="https://github.com/jterrazz/spwn">spwn</a>                    🟢 Monorepo — core engine & services
-├── <a href="https://github.com/jterrazz/spwn-blueprint">spwn-blueprint</a>          🔴 Architecture & design docs
 ├── <a href="https://github.com/jterrazz/spwn-motion">spwn-motion</a>             🔴 Motion graphics & promo teasers
+├── <a href="https://github.com/jterrazz/spwn-os">spwn-os</a>                 🔴 Realities where agents think, act, and evolve
 └── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>                🔴 Web client
 </pre>
 
@@ -32,13 +32,14 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>            🟢 Portfolio, articles, and photography
 ├── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a>      🟢 Shared CI pipelines
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>       🔴 Content source (Obsidian vault)
-└── <a href="https://github.com/jterrazz/jterrazz-forge">jterrazz-forge</a>          🔴 Command center for agents and automations
+└── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>             🔴 Personal second-brain agent system
 
 packages/
 ├── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a>         🟢 Multi-channel announcements
 ├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a>         🟢 Unified lint & format rules
 ├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a>      🟢 Composable AI-agent toolkit
 ├── <a href="https://github.com/jterrazz/package-logger">package-logger</a>            🟢 Structured logging for Node.js
+├── <a href="https://github.com/jterrazz/package-monitoring">package-monitoring</a>        🟢 Monitoring primitives for Node.js
 ├── <a href="https://github.com/jterrazz/package-test">package-test</a>              🟢 Shared Vitest config & helpers
 └── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>        🟢 Shared tsconfig & build presets
 </pre>
@@ -50,8 +51,8 @@ packages/
 clawrr/
 ├── <a href="https://github.com/clawrr/clawrr">clawrr</a>                  🟢 Platform & marketplace
 ├── <a href="https://github.com/clawrr/web-landing">clawrr-web-landing</a>      🔴 Landing page
-├── <a href="https://github.com/clawrr/worker">clawrr-worker</a>           🔴 Background worker
-└── <a href="https://github.com/clawrr/hire">clawrr-hire</a>             🔴 HIRE protocol specification
+├── <a href="https://github.com/clawrr/worker">clawrr-worker</a>           🟢 Background worker
+└── <a href="https://github.com/clawrr/hire">clawrr-hire</a>             🟢 HIRE protocol specification
 </pre>
 </details>
 
