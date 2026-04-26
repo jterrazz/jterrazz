@@ -17,9 +17,9 @@ spwn/
 <pre>
 signews/
 ├── <a href="https://github.com/jterrazz/signews-api">signews-api</a>             🔴 Backend API
-├── <a href="https://github.com/jterrazz/signews-blueprint">signews-blueprint</a>       🔴 Architecture & design docs
 ├── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>       🔴 App Store events broadcaster
 ├── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>          🔴 iOS / Android app
+├── <a href="https://github.com/jterrazz/signews-os">signews-os</a>              🔴 Architecture & design docs
 └── <a href="https://github.com/jterrazz/signews-web">signews-web</a>             🔴 Web client
 </pre>
 
@@ -62,7 +62,7 @@ clawrr/
 <pre>
 clawssify/
 ├── <a href="https://github.com/jterrazz/clawssify">clawssify</a>               🟢 Platform
-├── <a href="https://github.com/jterrazz/clawssify-blueprint">clawssify-blueprint</a>     🔴 Architecture & design docs
+├── <a href="https://github.com/jterrazz/clawssify-os">clawssify-os</a>            🔴 Architecture & design docs
 └── <a href="https://github.com/jterrazz/clawssify-web-landing">clawssify-web-landing</a>   🔴 Landing page
 </pre>
 </details>
@@ -73,7 +73,7 @@ clawssify/
 photopack/
 ├── <a href="https://github.com/jterrazz/photopack">photopack</a>               🟢 Core engine (Rust)
 ├── <a href="https://github.com/jterrazz/photopack-macos">photopack-macos</a>         🔴 Native macOS app
-└── <a href="https://github.com/jterrazz/photopack-blueprint">photopack-blueprint</a>     🔴 Architecture & design docs
+└── <a href="https://github.com/jterrazz/photopack-os">photopack-os</a>            🔴 Architecture & design docs
 </pre>
 
 ## Hackathons
