@@ -49,10 +49,12 @@ packages/
 
 <pre>
 clawrr/
-├── <a href="https://github.com/clawrr/clawrr">clawrr</a>                  🟢 Platform & marketplace
-├── <a href="https://github.com/clawrr/web-landing">clawrr-web-landing</a>      🔴 Landing page
-├── <a href="https://github.com/clawrr/worker">clawrr-worker</a>           🟢 Background worker
-└── <a href="https://github.com/clawrr/hire">clawrr-hire</a>             🟢 HIRE protocol specification
+├── <a href="https://github.com/jterrazz/clawrr">clawrr</a>                  🟢 Platform & marketplace
+├── <a href="https://github.com/jterrazz/clawrr-hire">clawrr-hire</a>             🟢 HIRE protocol specification
+├── <a href="https://github.com/jterrazz/clawrr-os">clawrr-os</a>               🔴 Substrate, architecture & decisions
+├── <a href="https://github.com/jterrazz/clawrr-web-app">clawrr-web-app</a>          🔴 Dashboard
+├── <a href="https://github.com/jterrazz/clawrr-web-landing">clawrr-web-landing</a>      🔴 Landing page
+└── <a href="https://github.com/jterrazz/clawrr-worker">clawrr-worker</a>           🟢 Background worker
 </pre>
 </details>
 
