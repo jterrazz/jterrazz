@@ -30,7 +30,7 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-studio">jterrazz-studio</a>         🟢 Dev toolkit, dotfiles & AI skills
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>          🟢 Infrastructure as Code
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>            🟢 Portfolio, articles, and photography
-├── <a href="https://github.com/jterrazz/jterrazz-workflows">jterrazz-workflows</a>      🟢 Shared CI pipelines
+├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>      🟢 Shared CI pipelines
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>       🔴 Content source (Obsidian vault)
 └── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>             🔴 Personal second-brain agent system
 
