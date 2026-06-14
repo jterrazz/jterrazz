@@ -8,7 +8,7 @@
 spwn/
 ├── <a href="https://github.com/jterrazz/spwn">spwn</a>                  🌐 Monorepo — core engine & services
 ├── <a href="https://github.com/jterrazz/spwn-motion">spwn-motion</a>           🔒 Motion graphics & promo teasers
-├── <a href="https://github.com/jterrazz/spwn-os">spwn-os</a>               🔒 Realities where agents think, act, and evolve
+├── <a href="https://github.com/jterrazz/spwn-os">spwn-os</a>               🔒 Agentic infrastructure & architecture
 └── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>              🔒 Web client
 </pre>
 
@@ -19,7 +19,7 @@ signews/
 ├── <a href="https://github.com/jterrazz/signews-api">signews-api</a>           🔒 Backend API
 ├── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>     🔒 App Store events broadcaster
 ├── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>        🔒 iOS / Android app
-├── <a href="https://github.com/jterrazz/signews-os">signews-os</a>            🔒 Architecture & design docs
+├── <a href="https://github.com/jterrazz/signews-os">signews-os</a>            🔒 Agentic infrastructure & architecture
 └── <a href="https://github.com/jterrazz/signews-web">signews-web</a>           🔒 Web client
 </pre>
 
@@ -34,7 +34,7 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>     🔒 Content source (Obsidian vault)
 ├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>       🔒 Cross-product design system
 ├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>          🔒 WireGuard VPN on a TP-Link / OpenWrt router
-└── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>           🔒 Personal second-brain agent system
+└── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>           🔒 Agentic infrastructure & architecture
 
 packages/
 ├── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a>     🌐 Multi-channel announcements
@@ -55,7 +55,7 @@ other/
 photopack/
 ├── <a href="https://github.com/jterrazz/photopack">photopack</a>             🌐 Core engine (Rust)
 ├── <a href="https://github.com/jterrazz/photopack-macos">photopack-macos</a>       🔒 Native macOS app
-└── <a href="https://github.com/jterrazz/photopack-os">photopack-os</a>          🔒 Architecture & design docs
+└── <a href="https://github.com/jterrazz/photopack-os">photopack-os</a>          🔒 Agentic infrastructure & architecture
 </pre>
 
 ## Hackathons
