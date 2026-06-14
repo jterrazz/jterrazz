@@ -1,4 +1,4 @@
-<div align="right"><sub><i>○ public ● private</i></sub></div>
+<div align="right"><sub><i>🌐 public 🔒 private</i></sub></div>
 
 ## Applications
 
@@ -6,56 +6,56 @@
 
 <pre>
 spwn/
-├── <a href="https://github.com/jterrazz/spwn">spwn</a>                  ○ Monorepo — core engine & services
-├── <a href="https://github.com/jterrazz/spwn-motion">spwn-motion</a>           ● Motion graphics & promo teasers
-├── <a href="https://github.com/jterrazz/spwn-os">spwn-os</a>               ● Realities where agents think, act, and evolve
-└── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>              ● Web client
+├── <a href="https://github.com/jterrazz/spwn">spwn</a>                  🌐 Monorepo — core engine & services
+├── <a href="https://github.com/jterrazz/spwn-motion">spwn-motion</a>           🔒 Motion graphics & promo teasers
+├── <a href="https://github.com/jterrazz/spwn-os">spwn-os</a>               🔒 Realities where agents think, act, and evolve
+└── <a href="https://github.com/jterrazz/spwn-web">spwn-web</a>              🔒 Web client
 </pre>
 
 **[SigNews](https://jterrazz.com/go/signews)** 🗽 → AI-autonomous news with an intelligence agency aesthetic
 
 <pre>
 signews/
-├── <a href="https://github.com/jterrazz/signews-api">signews-api</a>           ● Backend API
-├── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>     ● App Store events broadcaster
-├── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>        ● iOS / Android app
-├── <a href="https://github.com/jterrazz/signews-os">signews-os</a>            ● Architecture & design docs
-└── <a href="https://github.com/jterrazz/signews-web">signews-web</a>           ● Web client
+├── <a href="https://github.com/jterrazz/signews-api">signews-api</a>           🔒 Backend API
+├── <a href="https://github.com/jterrazz/signews-broadcast">signews-broadcast</a>     🔒 App Store events broadcaster
+├── <a href="https://github.com/jterrazz/signews-mobile">signews-mobile</a>        🔒 iOS / Android app
+├── <a href="https://github.com/jterrazz/signews-os">signews-os</a>            🔒 Architecture & design docs
+└── <a href="https://github.com/jterrazz/signews-web">signews-web</a>           🔒 Web client
 </pre>
 
 **[Jterrazz](https://jterrazz.com)** 🚀 → Personal space for experiments, articles, and projects
 
 <pre>
 jterrazz/
-├── <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a>          ○ Dev toolkit, dotfiles & AI skills
-├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>        ○ Infrastructure as Code
-├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>          ○ Portfolio, articles, and photography
-├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>      ○ Shared CI pipelines
-├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>     ● Content source (Obsidian vault)
-├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>       ● Cross-product design system
-├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>          ● WireGuard VPN on a TP-Link / OpenWrt router
-└── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>           ● Personal second-brain agent system
+├── <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a>          🌐 Dev toolkit, dotfiles & AI skills
+├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>        🌐 Infrastructure as Code
+├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>          🌐 Portfolio, articles, and photography
+├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>      🌐 Shared CI pipelines
+├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>     🔒 Content source (Obsidian vault)
+├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>       🔒 Cross-product design system
+├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>          🔒 WireGuard VPN on a TP-Link / OpenWrt router
+└── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>           🔒 Personal second-brain agent system
 
 packages/
-├── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a>     ○ Multi-channel announcements
-├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a>     ○ Unified lint & format rules
-├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a>  ○ Composable AI-agent toolkit
-├── <a href="https://github.com/jterrazz/package-logger">package-logger</a>        ○ Structured logging for Node.js
-├── <a href="https://github.com/jterrazz/package-monitoring">package-monitoring</a>    ○ Monitoring primitives for Node.js
-├── <a href="https://github.com/jterrazz/package-test">package-test</a>          ○ Shared Vitest config & helpers
-└── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>    ○ Shared tsconfig & build presets
+├── <a href="https://github.com/jterrazz/package-broadcast">package-broadcast</a>     🌐 Multi-channel announcements
+├── <a href="https://github.com/jterrazz/package-codestyle">package-codestyle</a>     🌐 Unified lint & format rules
+├── <a href="https://github.com/jterrazz/package-intelligence">package-intelligence</a>  🌐 Composable AI-agent toolkit
+├── <a href="https://github.com/jterrazz/package-logger">package-logger</a>        🌐 Structured logging for Node.js
+├── <a href="https://github.com/jterrazz/package-monitoring">package-monitoring</a>    🌐 Monitoring primitives for Node.js
+├── <a href="https://github.com/jterrazz/package-test">package-test</a>          🌐 Shared Vitest config & helpers
+└── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>    🌐 Shared tsconfig & build presets
 
 other/
-└── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>          ○ Language server for Hoverfly
+└── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>          🌐 Language server for Hoverfly
 </pre>
 
 **[PhotoPack](https://photopack.dev)** 📸 → Pack your photo library tight — deduplicate, organize, compress
 
 <pre>
 photopack/
-├── <a href="https://github.com/jterrazz/photopack">photopack</a>             ○ Core engine (Rust)
-├── <a href="https://github.com/jterrazz/photopack-macos">photopack-macos</a>       ● Native macOS app
-└── <a href="https://github.com/jterrazz/photopack-os">photopack-os</a>          ● Architecture & design docs
+├── <a href="https://github.com/jterrazz/photopack">photopack</a>             🌐 Core engine (Rust)
+├── <a href="https://github.com/jterrazz/photopack-macos">photopack-macos</a>       🔒 Native macOS app
+└── <a href="https://github.com/jterrazz/photopack-os">photopack-os</a>          🔒 Architecture & design docs
 </pre>
 
 ## Hackathons
