@@ -33,7 +33,7 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>        🟢 Shared CI pipelines
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>       🔴 Content source (Obsidian vault)
 ├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>         🔴 Cross-product design system
-├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>            🔴 Self-hosted WireGuard VPN
+├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>            🔴 WireGuard VPN on a TP-Link / OpenWrt router
 └── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>             🔴 Personal second-brain agent system
 
 packages/
