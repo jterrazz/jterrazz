@@ -31,7 +31,6 @@ jterrazz/
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>          🟢 Infrastructure as Code
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>            🟢 Portfolio, articles, and photography
 ├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>        🟢 Shared CI pipelines
-├── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>            🟢 Language server for Hoverfly
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>       🔴 Content source (Obsidian vault)
 ├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>         🔴 Cross-product design system
 ├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>            🔴 Self-hosted WireGuard VPN
@@ -45,6 +44,9 @@ packages/
 ├── <a href="https://github.com/jterrazz/package-monitoring">package-monitoring</a>        🟢 Monitoring primitives for Node.js
 ├── <a href="https://github.com/jterrazz/package-test">package-test</a>              🟢 Shared Vitest config & helpers
 └── <a href="https://github.com/jterrazz/package-typescript">package-typescript</a>        🟢 Shared tsconfig & build presets
+
+other/
+└── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>              🟢 Language server for Hoverfly
 </pre>
 
 <details>
