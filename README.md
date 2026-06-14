@@ -49,31 +49,6 @@ other/
 └── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>              🟢 Language server for Hoverfly
 </pre>
 
-<details>
-<summary><b>Clawrr</b> 🤖 → AI agent marketplace — registry, discovery, and reputation &nbsp;<kbd>◌ idle · not started</kbd></summary>
-
-<pre>
-clawrr/
-├── <a href="https://github.com/jterrazz/clawrr">clawrr</a>                  🟢 Platform & marketplace
-├── <a href="https://github.com/jterrazz/clawrr-hire">clawrr-hire</a>             🟢 HIRE protocol specification
-├── <a href="https://github.com/jterrazz/clawrr-os">clawrr-os</a>               🔴 Substrate, architecture & decisions
-├── <a href="https://github.com/jterrazz/clawrr-web-app">clawrr-web-app</a>          🔴 Dashboard
-├── <a href="https://github.com/jterrazz/clawrr-web-landing">clawrr-web-landing</a>      🔴 Landing page
-└── <a href="https://github.com/jterrazz/clawrr-worker">clawrr-worker</a>           🟢 Background worker
-</pre>
-</details>
-
-<details>
-<summary><b>Clawssify</b> 🐾 → AI reads your links and notes, organizes them into wiki pages and digests &nbsp;<kbd>◌ idle · not started</kbd></summary>
-
-<pre>
-clawssify/
-├── <a href="https://github.com/jterrazz/clawssify">clawssify</a>               🟢 Platform
-├── <a href="https://github.com/jterrazz/clawssify-os">clawssify-os</a>            🔴 Architecture & design docs
-└── <a href="https://github.com/jterrazz/clawssify-web">clawssify-web</a>           🔴 Web client
-</pre>
-</details>
-
 **[PhotoPack](https://photopack.dev)** 📸 → Pack your photo library tight — deduplicate, organize, compress
 
 <pre>
