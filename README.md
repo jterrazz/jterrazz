@@ -27,11 +27,14 @@ signews/
 
 <pre>
 jterrazz/
-├── <a href="https://github.com/jterrazz/jterrazz-studio">jterrazz-studio</a>         🟢 Dev toolkit, dotfiles & AI skills
+├── <a href="https://github.com/jterrazz/jterrazz-cli">jterrazz-cli</a>            🟢 Dev toolkit, dotfiles & AI skills
 ├── <a href="https://github.com/jterrazz/jterrazz-infra">jterrazz-infra</a>          🟢 Infrastructure as Code
 ├── <a href="https://github.com/jterrazz/jterrazz-web">jterrazz-web</a>            🟢 Portfolio, articles, and photography
-├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>      🟢 Shared CI pipelines
+├── <a href="https://github.com/jterrazz/jterrazz-actions">jterrazz-actions</a>        🟢 Shared CI pipelines
+├── <a href="https://github.com/jterrazz/hoverfly-lsp">hoverfly-lsp</a>            🟢 Language server for Hoverfly
 ├── <a href="https://github.com/jterrazz/jterrazz-articles">jterrazz-articles</a>       🔴 Content source (Obsidian vault)
+├── <a href="https://github.com/jterrazz/jterrazz-design">jterrazz-design</a>         🔴 Cross-product design system
+├── <a href="https://github.com/jterrazz/jterrazz-vpn">jterrazz-vpn</a>            🔴 Self-hosted WireGuard VPN
 └── <a href="https://github.com/jterrazz/jterrazz-os">jterrazz-os</a>             🔴 Personal second-brain agent system
 
 packages/
@@ -65,7 +68,7 @@ clawrr/
 clawssify/
 ├── <a href="https://github.com/jterrazz/clawssify">clawssify</a>               🟢 Platform
 ├── <a href="https://github.com/jterrazz/clawssify-os">clawssify-os</a>            🔴 Architecture & design docs
-└── <a href="https://github.com/jterrazz/clawssify-web-landing">clawssify-web-landing</a>   🔴 Landing page
+└── <a href="https://github.com/jterrazz/clawssify-web">clawssify-web</a>           🔴 Web client
 </pre>
 </details>
 
